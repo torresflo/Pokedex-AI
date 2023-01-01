@@ -1,0 +1,2636 @@
+{
+  "1": {
+    "name": "bulbasaur",
+    "generation": 1,
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "height": 70,
+    "weight": 6900,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Seed Pokémon",
+    "description": "It can go for days without eating a single morsel. In the bulb on its back, it stores energy.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/1.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+  },
+  "2": {
+    "name": "ivysaur",
+    "generation": 1,
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "height": 100,
+    "weight": 13000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Seed Pokémon",
+    "description": "The bud on its back grows by drawing energy. It gives off an aroma when it is ready to bloom.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/2.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
+  },
+  "3": {
+    "name": "venusaur",
+    "generation": 1,
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "height": 200,
+    "weight": 100000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Seed Pokémon",
+    "description": "The flower on its back catches the sun’s rays. The sunlight is then absorbed and used for energy.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/3.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png"
+  },
+  "4": {
+    "name": "charmander",
+    "generation": 1,
+    "types": [
+      "fire"
+    ],
+    "height": 60,
+    "weight": 8500,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Lizard Pokémon",
+    "description": "The flame at the tip of its tail makes a sound as it burns. You can only hear it in quiet places.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/4.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png"
+  },
+  "5": {
+    "name": "charmeleon",
+    "generation": 1,
+    "types": [
+      "fire"
+    ],
+    "height": 110,
+    "weight": 19000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Flame Pokémon",
+    "description": "Tough fights could excite this Pokémon. When excited, it may breathe out bluish-white flames.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/5.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png"
+  },
+  "6": {
+    "name": "charizard",
+    "generation": 1,
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "height": 170,
+    "weight": 90500,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Flame Pokémon",
+    "description": "When this Pokémon expels a blast of superhot fire, the red flame at the tip of its tail burns more intensely.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/6.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png"
+  },
+  "7": {
+    "name": "squirtle",
+    "generation": 1,
+    "types": [
+      "water"
+    ],
+    "height": 50,
+    "weight": 9000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Tiny Turtle Pokémon",
+    "description": "Shoots water at prey while in the water. Withdraws into its shell when in danger.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/7.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png"
+  },
+  "8": {
+    "name": "wartortle",
+    "generation": 1,
+    "types": [
+      "water"
+    ],
+    "height": 100,
+    "weight": 22500,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Turtle Pokémon",
+    "description": "When tapped on its head, this Pokémon will pull it in, but its tail will still stick out a little bit.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/8.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/8.png"
+  },
+  "9": {
+    "name": "blastoise",
+    "generation": 1,
+    "types": [
+      "water"
+    ],
+    "height": 160,
+    "weight": 85500,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Shellfish Pokémon",
+    "description": "Once it takes aim at its enemy, it blasts out water with even more force than a fire hose.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/9.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png"
+  },
+  "10": {
+    "name": "caterpie",
+    "generation": 1,
+    "types": [
+      "bug"
+    ],
+    "height": 30,
+    "weight": 2900,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Worm Pokémon",
+    "description": "If you touch the feeler on top of its head, it will release a horrible stink to protect itself.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png"
+  },
+  "11": {
+    "name": "metapod",
+    "generation": 1,
+    "types": [
+      "bug"
+    ],
+    "height": 70,
+    "weight": 9900,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Cocoon Pokémon",
+    "description": "Hardens its shell to protect itself. However, a large impact may cause it to pop out of its shell.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/11.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png"
+  },
+  "12": {
+    "name": "butterfree",
+    "generation": 1,
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "height": 110,
+    "weight": 32000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Butterfly Pokémon",
+    "description": "Its wings, covered with poisonous powder, repel water. This allows it to fly in the rain.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/12.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/12.png"
+  },
+  "13": {
+    "name": "weedle",
+    "generation": 1,
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "height": 30,
+    "weight": 3200,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Hairy Bug Pokémon",
+    "description": "Beware of the sharp stinger on its head. It hides in grass and bushes where it eats leaves.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/13.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png"
+  },
+  "14": {
+    "name": "kakuna",
+    "generation": 1,
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "height": 60,
+    "weight": 10000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Cocoon Pokémon",
+    "description": "Able to move only slightly. When endangered, it may stick out its stinger and poison its enemy.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/14.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png"
+  },
+  "15": {
+    "name": "beedrill",
+    "generation": 1,
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "height": 100,
+    "weight": 29500,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Poison Bee Pokémon",
+    "description": "It has three poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/15.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/15.png"
+  },
+  "16": {
+    "name": "pidgey",
+    "generation": 1,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "height": 30,
+    "weight": 1800,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Tiny Bird Pokémon",
+    "description": "Very docile. If attacked, it will often kick up sand to protect itself rather than fight back.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/16.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png"
+  },
+  "17": {
+    "name": "pidgeotto",
+    "generation": 1,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "height": 110,
+    "weight": 30000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Bird Pokémon",
+    "description": "This Pokémon is full of vitality. It constantly flies around its large territory in search of prey.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/17.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png"
+  },
+  "18": {
+    "name": "pidgeot",
+    "generation": 1,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "height": 150,
+    "weight": 39500,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Bird Pokémon",
+    "description": "This Pokémon flies at Mach 2 speed, seeking prey. Its large talons are feared as wicked weapons.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/18.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png"
+  },
+  "19": {
+    "name": "rattata",
+    "generation": 1,
+    "types": [
+      "normal"
+    ],
+    "height": 30,
+    "weight": 3500,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Mouse Pokémon",
+    "description": "Will chew on anything with its fangs. If you see one, you can be certain that 40 more live in the area.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/19.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/19.png"
+  },
+  "20": {
+    "name": "raticate",
+    "generation": 1,
+    "types": [
+      "normal"
+    ],
+    "height": 70,
+    "weight": 18500,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Mouse Pokémon",
+    "description": "Its hind feet are webbed. They act as flippers, so it can swim in rivers and hunt for prey.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/20.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/20.png"
+  },
+  "21": {
+    "name": "spearow",
+    "generation": 1,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "height": 30,
+    "weight": 2000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Tiny Bird Pokémon",
+    "description": "Inept at flying high. However, it can fly around very fast to protect its territory.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/21.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/21.png"
+  },
+  "22": {
+    "name": "fearow",
+    "generation": 1,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "height": 120,
+    "weight": 38000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Beak Pokémon",
+    "description": "A Pokémon that dates back many years. If it senses danger, it flies high and away, instantly.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/22.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png"
+  },
+  "23": {
+    "name": "ekans",
+    "generation": 1,
+    "types": [
+      "poison"
+    ],
+    "height": 200,
+    "weight": 6900,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Snake Pokémon",
+    "description": "The older it gets, the longer it grows. At night, it wraps its long body around tree branches to rest.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/23.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/23.png"
+  },
+  "24": {
+    "name": "arbok",
+    "generation": 1,
+    "types": [
+      "poison"
+    ],
+    "height": 350,
+    "weight": 65000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Cobra Pokémon",
+    "description": "The frightening patterns on its belly have been studied. Six variations have been confirmed.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/24.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/24.png"
+  },
+  "25": {
+    "name": "pikachu",
+    "generation": 1,
+    "types": [
+      "electric"
+    ],
+    "height": 40,
+    "weight": 6000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Mouse Pokémon",
+    "description": "This forest-dwelling Pokémon stores electricity in its cheeks, so you’ll feel a tingly shock if you touch it.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/25.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png"
+  },
+  "26": {
+    "name": "raichu",
+    "generation": 1,
+    "types": [
+      "electric"
+    ],
+    "height": 80,
+    "weight": 30000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Mouse Pokémon",
+    "description": "When electricity builds up inside its body, it becomes feisty. It also glows in the dark.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/26.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/26.png"
+  },
+  "27": {
+    "name": "sandshrew",
+    "generation": 1,
+    "types": [
+      "ground"
+    ],
+    "height": 60,
+    "weight": 12000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Mouse Pokémon",
+    "description": "Its body is dry. When it gets cold at night, its hide is said to become coated with a fine dew.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/27.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png"
+  },
+  "28": {
+    "name": "sandslash",
+    "generation": 1,
+    "types": [
+      "ground"
+    ],
+    "height": 100,
+    "weight": 29500,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Mouse Pokémon",
+    "description": "It is skilled at slashing enemies with its claws. If broken, they start to grow back in a day.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/28.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/28.png"
+  },
+  "29": {
+    "name": "nidoran-f",
+    "generation": 1,
+    "types": [
+      "poison"
+    ],
+    "height": 40,
+    "weight": 7000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Poison Pin Pokémon",
+    "description": "A mild-mannered Pokémon that does not like to fight. Beware—its small horn secretes venom.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/29.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/29.png"
+  },
+  "30": {
+    "name": "nidorina",
+    "generation": 1,
+    "types": [
+      "poison"
+    ],
+    "height": 80,
+    "weight": 20000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Poison Pin Pokémon",
+    "description": "When resting deep in its burrow, its barbs always retract. This is proof that it is relaxed.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/30.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/30.png"
+  },
+  "31": {
+    "name": "nidoqueen",
+    "generation": 1,
+    "types": [
+      "poison",
+      "ground"
+    ],
+    "height": 130,
+    "weight": 60000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Drill Pokémon",
+    "description": "Tough scales cover the sturdy body of this Pokémon. It appears that the scales grow in cycles.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/31.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/31.png"
+  },
+  "32": {
+    "name": "nidoran-m",
+    "generation": 1,
+    "types": [
+      "poison"
+    ],
+    "height": 50,
+    "weight": 9000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Poison Pin Pokémon",
+    "description": "Its large ears are always kept upright. If it senses danger, it will attack with a poisonous sting.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/32.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/32.png"
+  },
+  "33": {
+    "name": "nidorino",
+    "generation": 1,
+    "types": [
+      "poison"
+    ],
+    "height": 90,
+    "weight": 19500,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Poison Pin Pokémon",
+    "description": "Its horn contains venom. If it stabs an enemy with the horn, the impact makes the poison leak out.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/33.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/33.png"
+  },
+  "34": {
+    "name": "nidoking",
+    "generation": 1,
+    "types": [
+      "poison",
+      "ground"
+    ],
+    "height": 140,
+    "weight": 62000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Drill Pokémon",
+    "description": "Its steel-like hide adds to its powerful tackle. Its horns are so hard, they can pierce a diamond.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/34.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png"
+  },
+  "35": {
+    "name": "clefairy",
+    "generation": 1,
+    "types": [
+      "fairy"
+    ],
+    "height": 60,
+    "weight": 7500,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Fairy Pokémon",
+    "description": "Adored for their cute looks and playfulness. They are thought to be rare, as they do not appear often.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/35.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/35.png"
+  },
+  "36": {
+    "name": "clefable",
+    "generation": 1,
+    "types": [
+      "fairy"
+    ],
+    "height": 130,
+    "weight": 40000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Fairy Pokémon",
+    "description": "They appear to be very protective of their own world. It is a kind of fairy, rarely seen by people.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/36.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/36.png"
+  },
+  "37": {
+    "name": "vulpix",
+    "generation": 1,
+    "types": [
+      "fire"
+    ],
+    "height": 60,
+    "weight": 9900,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Fox Pokémon",
+    "description": "Both its fur and its tails are beautiful. As it grows, the tails split and form more tails.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/37.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/37.png"
+  },
+  "38": {
+    "name": "ninetales",
+    "generation": 1,
+    "types": [
+      "fire"
+    ],
+    "height": 110,
+    "weight": 19900,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Fox Pokémon",
+    "description": "According to an enduring legend, nine noble saints were united and reincarnated as this Pokémon.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/38.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/38.png"
+  },
+  "39": {
+    "name": "jigglypuff",
+    "generation": 1,
+    "types": [
+      "normal",
+      "fairy"
+    ],
+    "height": 50,
+    "weight": 5500,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Balloon Pokémon",
+    "description": "Uses its cute round eyes to enrapture its foe. It then sings a pleasing melody that lulls the foe to sleep.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/39.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/39.png"
+  },
+  "40": {
+    "name": "wigglytuff",
+    "generation": 1,
+    "types": [
+      "normal",
+      "fairy"
+    ],
+    "height": 100,
+    "weight": 12000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Balloon Pokémon",
+    "description": "Its body is very elastic. By inhaling deeply, it can continue to inflate itself without limit.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/40.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/40.png"
+  },
+  "41": {
+    "name": "zubat",
+    "generation": 1,
+    "types": [
+      "poison",
+      "flying"
+    ],
+    "height": 80,
+    "weight": 7500,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Bat Pokémon",
+    "description": "Emits ultrasonic cries while it flies. They act as a sonar used to check for objects in its way.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/41.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/41.png"
+  },
+  "42": {
+    "name": "golbat",
+    "generation": 1,
+    "types": [
+      "poison",
+      "flying"
+    ],
+    "height": 160,
+    "weight": 55000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Bat Pokémon",
+    "description": "It attacks in a stealthy manner, without warning. Its sharp fangs are used to bite and to suck blood.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/42.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/42.png"
+  },
+  "43": {
+    "name": "oddish",
+    "generation": 1,
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "height": 50,
+    "weight": 5400,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Weed Pokémon",
+    "description": "It may be mistaken for a clump of weeds. If you try to yank it out of the ground, it shrieks horribly.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/43.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/43.png"
+  },
+  "44": {
+    "name": "gloom",
+    "generation": 1,
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "height": 80,
+    "weight": 8600,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Weed Pokémon",
+    "description": "Smells incredibly foul! However, around one out of a thousand people enjoy sniffing its nose-bending stink.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/44.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/44.png"
+  },
+  "45": {
+    "name": "vileplume",
+    "generation": 1,
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "height": 120,
+    "weight": 18600,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Flower Pokémon",
+    "description": "Flaps its broad flower petals to scatter its poisonous pollen. The flapping sound is very loud.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/45.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/45.png"
+  },
+  "46": {
+    "name": "paras",
+    "generation": 1,
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "height": 30,
+    "weight": 5400,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Mushroom Pokémon",
+    "description": "Burrows under the ground to gnaw on tree roots. The mushrooms on its back absorb most of the nutrition.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/46.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/46.png"
+  },
+  "47": {
+    "name": "parasect",
+    "generation": 1,
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "height": 100,
+    "weight": 29500,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Mushroom Pokémon",
+    "description": "The bug host is drained of energy by the mushroom on its back. The mushroom appears to do all the thinking.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/47.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/47.png"
+  },
+  "48": {
+    "name": "venonat",
+    "generation": 1,
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "height": 100,
+    "weight": 30000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Insect Pokémon",
+    "description": "Its large eyes act as radar. In a bright place, you can see that they are clusters of many tiny eyes.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/48.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/48.png"
+  },
+  "49": {
+    "name": "venomoth",
+    "generation": 1,
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "height": 150,
+    "weight": 12500,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Poison Moth Pokémon",
+    "description": "The powdery scales on its wings are hard to remove from skin. They also contain poison that leaks out on contact.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/49.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/49.png"
+  },
+  "50": {
+    "name": "diglett",
+    "generation": 1,
+    "types": [
+      "ground"
+    ],
+    "height": 20,
+    "weight": 800,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Mole Pokémon",
+    "description": "It prefers dark places. It spends most of its time underground, though it may pop up in caves.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/50.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/50.png"
+  },
+  "51": {
+    "name": "dugtrio",
+    "generation": 1,
+    "types": [
+      "ground"
+    ],
+    "height": 70,
+    "weight": 33300,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Mole Pokémon",
+    "description": "A team of triplets that can burrow to a depth of 60 miles. It’s reported that this triggers an earthquake.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/51.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/51.png"
+  },
+  "52": {
+    "name": "meowth",
+    "generation": 1,
+    "types": [
+      "normal"
+    ],
+    "height": 40,
+    "weight": 4200,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Scratch Cat Pokémon",
+    "description": "Appears to be more active at night. It loves round and shiny things. It can’t stop itself from picking them up.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/52.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png"
+  },
+  "53": {
+    "name": "persian",
+    "generation": 1,
+    "types": [
+      "normal"
+    ],
+    "height": 100,
+    "weight": 32000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Classy Cat Pokémon",
+    "description": "The gem in its forehead glows on its own! It walks with all the grace and elegance of a proud queen.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/53.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/53.png"
+  },
+  "54": {
+    "name": "psyduck",
+    "generation": 1,
+    "types": [
+      "water"
+    ],
+    "height": 80,
+    "weight": 19600,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Duck Pokémon",
+    "description": "Always tormented by headaches. It uses psychic powers, but whether it intends to do so is not known.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/54.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png"
+  },
+  "55": {
+    "name": "golduck",
+    "generation": 1,
+    "types": [
+      "water"
+    ],
+    "height": 170,
+    "weight": 76600,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Duck Pokémon",
+    "description": "Its long, slim limbs end in broad flippers. They are used for swimming gracefully in lakes.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/55.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/55.png"
+  },
+  "56": {
+    "name": "mankey",
+    "generation": 1,
+    "types": [
+      "fighting"
+    ],
+    "height": 50,
+    "weight": 28000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Pig Monkey Pokémon",
+    "description": "An agile Pokémon that lives in trees. It angers easily and will not hesitate to attack anything.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/56.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/56.png"
+  },
+  "57": {
+    "name": "primeape",
+    "generation": 1,
+    "types": [
+      "fighting"
+    ],
+    "height": 100,
+    "weight": 32000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Pig Monkey Pokémon",
+    "description": "It stops being angry only when nobody else is around. To view this moment is very difficult.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/57.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/57.png"
+  },
+  "58": {
+    "name": "growlithe",
+    "generation": 1,
+    "types": [
+      "fire"
+    ],
+    "height": 70,
+    "weight": 19000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Puppy Pokémon",
+    "description": "A Pokémon with a friendly nature. However, it will bark fiercely at anything invading its territory.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/58.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/58.png"
+  },
+  "59": {
+    "name": "arcanine",
+    "generation": 1,
+    "types": [
+      "fire"
+    ],
+    "height": 190,
+    "weight": 155000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Legendary Pokémon",
+    "description": "A legendary Pokémon in the East. Many people are charmed by the grace and beauty of its running.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/59.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png"
+  },
+  "60": {
+    "name": "poliwag",
+    "generation": 1,
+    "types": [
+      "water"
+    ],
+    "height": 60,
+    "weight": 12400,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Tadpole Pokémon",
+    "description": "The direction of the spiral on the belly differs by area. It is more adept at swimming than walking.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/60.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/60.png"
+  },
+  "61": {
+    "name": "poliwhirl",
+    "generation": 1,
+    "types": [
+      "water"
+    ],
+    "height": 100,
+    "weight": 20000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Tadpole Pokémon",
+    "description": "Under attack, it uses its belly spiral to put the foe to sleep. It then makes its escape.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/61.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/61.png"
+  },
+  "62": {
+    "name": "poliwrath",
+    "generation": 1,
+    "types": [
+      "water",
+      "fighting"
+    ],
+    "height": 130,
+    "weight": 54000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Tadpole Pokémon",
+    "description": "Swims powerfully using all the muscles in its body. It can even overtake world-class swimmers.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/62.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/62.png"
+  },
+  "63": {
+    "name": "abra",
+    "generation": 1,
+    "types": [
+      "psychic"
+    ],
+    "height": 90,
+    "weight": 19500,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Psi Pokémon",
+    "description": "Sleeps 18 hours a day. If it senses danger, it will teleport itself to safety even as it sleeps.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/63.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/63.png"
+  },
+  "64": {
+    "name": "kadabra",
+    "generation": 1,
+    "types": [
+      "psychic"
+    ],
+    "height": 130,
+    "weight": 56500,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Psi Pokémon",
+    "description": "Many odd things happen if this Pokémon is close by. For example, it makes clocks run backward.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/64.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/64.png"
+  },
+  "65": {
+    "name": "alakazam",
+    "generation": 1,
+    "types": [
+      "psychic"
+    ],
+    "height": 150,
+    "weight": 48000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Psi Pokémon",
+    "description": "A Pokémon that can memorize anything. It never forgets what it learns—that’s why this Pokémon is smart.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/65.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png"
+  },
+  "66": {
+    "name": "machop",
+    "generation": 1,
+    "types": [
+      "fighting"
+    ],
+    "height": 80,
+    "weight": 19500,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Superpower Pokémon",
+    "description": "Very powerful in spite of its small size. Its mastery of many types of martial arts makes it very tough.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/66.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png"
+  },
+  "67": {
+    "name": "machoke",
+    "generation": 1,
+    "types": [
+      "fighting"
+    ],
+    "height": 150,
+    "weight": 70500,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Superpower Pokémon",
+    "description": "The belt around its waist holds back its energy. Without it, this Pokémon would be unstoppable.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/67.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/67.png"
+  },
+  "68": {
+    "name": "machamp",
+    "generation": 1,
+    "types": [
+      "fighting"
+    ],
+    "height": 160,
+    "weight": 130000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Superpower Pokémon",
+    "description": "One arm alone can move mountains. Using all four arms, this Pokémon fires off awesome punches.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/68.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/68.png"
+  },
+  "69": {
+    "name": "bellsprout",
+    "generation": 1,
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "height": 70,
+    "weight": 4000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Flower Pokémon",
+    "description": "Prefers hot and humid places. It ensnares tiny bugs with its vines and devours them.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/69.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/69.png"
+  },
+  "70": {
+    "name": "weepinbell",
+    "generation": 1,
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "height": 100,
+    "weight": 6400,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Flycatcher Pokémon",
+    "description": "When hungry, it swallows anything that moves. Its hapless prey is dissolved by strong acids.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/70.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/70.png"
+  },
+  "71": {
+    "name": "victreebel",
+    "generation": 1,
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "height": 170,
+    "weight": 15500,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Flycatcher Pokémon",
+    "description": "Lures prey with the sweet aroma of honey. Swallowed whole, the prey is dissolved in a day, bones and all.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/71.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/71.png"
+  },
+  "72": {
+    "name": "tentacool",
+    "generation": 1,
+    "types": [
+      "water",
+      "poison"
+    ],
+    "height": 90,
+    "weight": 45500,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Jellyfish Pokémon",
+    "description": "It can sometimes be found all dry and shriveled up on a beach. Toss it back into the sea to revive it.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/72.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/72.png"
+  },
+  "73": {
+    "name": "tentacruel",
+    "generation": 1,
+    "types": [
+      "water",
+      "poison"
+    ],
+    "height": 160,
+    "weight": 55000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Jellyfish Pokémon",
+    "description": "Its 80 tentacles can stretch and contract freely. They wrap around prey and weaken it with poison.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/73.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/73.png"
+  },
+  "74": {
+    "name": "geodude",
+    "generation": 1,
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "height": 40,
+    "weight": 20000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Rock Pokémon",
+    "description": "Commonly found near mountain trails and the like. If you step on one by accident, it gets angry.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/74.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/74.png"
+  },
+  "75": {
+    "name": "graveler",
+    "generation": 1,
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "height": 100,
+    "weight": 105000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Rock Pokémon",
+    "description": "Often seen rolling down mountain trails. Obstacles are just things to roll straight over, not avoid.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/75.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/75.png"
+  },
+  "76": {
+    "name": "golem",
+    "generation": 1,
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "height": 140,
+    "weight": 300000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Megaton Pokémon",
+    "description": "Once it sheds its skin, its body turns tender and whitish. Its hide hardens when it’s exposed to air.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/76.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png"
+  },
+  "77": {
+    "name": "ponyta",
+    "generation": 1,
+    "types": [
+      "fire"
+    ],
+    "height": 100,
+    "weight": 30000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Fire Horse Pokémon",
+    "description": "Capable of jumping incredibly high. Its hooves and sturdy legs absorb the impact of a hard landing.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/77.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/77.png"
+  },
+  "78": {
+    "name": "rapidash",
+    "generation": 1,
+    "types": [
+      "fire"
+    ],
+    "height": 170,
+    "weight": 95000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Fire Horse Pokémon",
+    "description": "Just loves to run. If it sees something faster than itself, it will give chase at top speed.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/78.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/78.png"
+  },
+  "79": {
+    "name": "slowpoke",
+    "generation": 1,
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "height": 120,
+    "weight": 36000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Dopey Pokémon",
+    "description": "Incredibly slow and sluggish. It is quite content to loll about without worrying about the time.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/79.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/79.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/79.png"
+  },
+  "80": {
+    "name": "slowbro",
+    "generation": 1,
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "height": 160,
+    "weight": 78500,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Hermit Crab Pokémon",
+    "description": "Lives lazily by the sea. If the Shellder on its tail comes off, it becomes a Slowpoke again.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/80.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/80.png"
+  },
+  "81": {
+    "name": "magnemite",
+    "generation": 1,
+    "types": [
+      "electric",
+      "steel"
+    ],
+    "height": 30,
+    "weight": 6000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Magnet Pokémon",
+    "description": "It is hatched with the ability to defy gravity. It floats while emitting powerful electromagnetic waves.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/81.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png"
+  },
+  "82": {
+    "name": "magneton",
+    "generation": 1,
+    "types": [
+      "electric",
+      "steel"
+    ],
+    "height": 100,
+    "weight": 60000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Magnet Pokémon",
+    "description": "Generates strange radio signals. It raises the temperature by 3.6 degrees Fahrenheit within 3,300 feet.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/82.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/82.png"
+  },
+  "83": {
+    "name": "farfetchd",
+    "generation": 1,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "height": 80,
+    "weight": 15000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Wild Duck Pokémon",
+    "description": "They live where reedy plants grow. Farfetch’d are rarely seen, so it’s thought their numbers are decreasing.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/83.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/83.png"
+  },
+  "84": {
+    "name": "doduo",
+    "generation": 1,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "height": 140,
+    "weight": 39200,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Twin Bird Pokémon",
+    "description": "Its short wings make flying difficult. Instead, this Pokémon runs at high speed on developed legs.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/84.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/84.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/84.png"
+  },
+  "85": {
+    "name": "dodrio",
+    "generation": 1,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "height": 180,
+    "weight": 85200,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Triple Bird Pokémon",
+    "description": "One of Doduo’s two heads splits to form a unique species. It runs close to 40 mph in prairies.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/85.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/85.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/85.png"
+  },
+  "86": {
+    "name": "seel",
+    "generation": 1,
+    "types": [
+      "water"
+    ],
+    "height": 110,
+    "weight": 90000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Sea Lion Pokémon",
+    "description": "Loves freezing-cold conditions. Relishes swimming in a frigid climate of around 14 degrees Fahrenheit.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/86.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/86.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/86.png"
+  },
+  "87": {
+    "name": "dewgong",
+    "generation": 1,
+    "types": [
+      "water",
+      "ice"
+    ],
+    "height": 170,
+    "weight": 120000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Sea Lion Pokémon",
+    "description": "Its entire body is a snowy white. Unharmed by even intense cold, it swims powerfully in icy waters.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/87.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png"
+  },
+  "88": {
+    "name": "grimer",
+    "generation": 1,
+    "types": [
+      "poison"
+    ],
+    "height": 90,
+    "weight": 30000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Sludge Pokémon",
+    "description": "Made of congealed sludge. It smells too putrid to touch. Even weeds won’t grow in its path.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/88.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/88.png"
+  },
+  "89": {
+    "name": "muk",
+    "generation": 1,
+    "types": [
+      "poison"
+    ],
+    "height": 120,
+    "weight": 30000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Sludge Pokémon",
+    "description": "Smells so awful, it can cause fainting. Through degeneration of its nose, it lost its sense of smell.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/89.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/89.png"
+  },
+  "90": {
+    "name": "shellder",
+    "generation": 1,
+    "types": [
+      "water"
+    ],
+    "height": 30,
+    "weight": 4000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Bivalve Pokémon",
+    "description": "The shell can withstand any attack. However, when it is open, the tender body is exposed.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/90.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/90.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/90.png"
+  },
+  "91": {
+    "name": "cloyster",
+    "generation": 1,
+    "types": [
+      "water",
+      "ice"
+    ],
+    "height": 150,
+    "weight": 132500,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Bivalve Pokémon",
+    "description": "For protection, it uses its harder-than-diamond shell. It also shoots spikes from the shell.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/91.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/91.png"
+  },
+  "92": {
+    "name": "gastly",
+    "generation": 1,
+    "types": [
+      "ghost",
+      "poison"
+    ],
+    "height": 130,
+    "weight": 100,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Gas Pokémon",
+    "description": "Said to appear in decrepit, deserted buildings. It has no real shape, as it appears to be made of a gas.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/92.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png"
+  },
+  "93": {
+    "name": "haunter",
+    "generation": 1,
+    "types": [
+      "ghost",
+      "poison"
+    ],
+    "height": 160,
+    "weight": 100,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Gas Pokémon",
+    "description": "By licking, it saps the victim’s life. It causes shaking that won’t stop until the victim’s demise.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/93.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/93.png"
+  },
+  "94": {
+    "name": "gengar",
+    "generation": 1,
+    "types": [
+      "ghost",
+      "poison"
+    ],
+    "height": 150,
+    "weight": 40500,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Shadow Pokémon",
+    "description": "A Gengar is close by if you feel a sudden chill. It may be trying to lay a curse on you.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/94.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png"
+  },
+  "95": {
+    "name": "onix",
+    "generation": 1,
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "height": 880,
+    "weight": 210000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Rock Snake Pokémon",
+    "description": "Burrows at high speed in search of food. The tunnels it leaves are used as homes by Diglett.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/95.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/95.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png"
+  },
+  "96": {
+    "name": "drowzee",
+    "generation": 1,
+    "types": [
+      "psychic"
+    ],
+    "height": 100,
+    "weight": 32400,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Hypnosis Pokémon",
+    "description": "If you sleep by it all the time, it will sometimes show you dreams it had eaten in the past.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/96.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/96.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/96.png"
+  },
+  "97": {
+    "name": "hypno",
+    "generation": 1,
+    "types": [
+      "psychic"
+    ],
+    "height": 160,
+    "weight": 75600,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Hypnosis Pokémon",
+    "description": "Avoid eye contact if you come across one. It will try to put you to sleep by using its pendulum.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/97.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/97.png"
+  },
+  "98": {
+    "name": "krabby",
+    "generation": 1,
+    "types": [
+      "water"
+    ],
+    "height": 40,
+    "weight": 6500,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "River Crab Pokémon",
+    "description": "Its pincers are superb weapons. They sometimes break off during battle, but they grow back fast.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/98.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/98.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/98.png"
+  },
+  "99": {
+    "name": "kingler",
+    "generation": 1,
+    "types": [
+      "water"
+    ],
+    "height": 130,
+    "weight": 60000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Pincer Pokémon",
+    "description": "One claw grew massively and is as hard as steel. It has 10,000-horsepower strength. However, it is too heavy.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/99.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/99.png"
+  },
+  "100": {
+    "name": "voltorb",
+    "generation": 1,
+    "types": [
+      "electric"
+    ],
+    "height": 50,
+    "weight": 10400,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Ball Pokémon",
+    "description": "It is said to camouflage itself as a Poké Ball. It will self-destruct with very little stimulus.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/100.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/100.png"
+  },
+  "101": {
+    "name": "electrode",
+    "generation": 1,
+    "types": [
+      "electric"
+    ],
+    "height": 120,
+    "weight": 66600,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Ball Pokémon",
+    "description": "Stores electrical energy inside its body. Even the slightest shock could trigger a huge explosion.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/101.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/101.png"
+  },
+  "102": {
+    "name": "exeggcute",
+    "generation": 1,
+    "types": [
+      "grass",
+      "psychic"
+    ],
+    "height": 40,
+    "weight": 2500,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Egg Pokémon",
+    "description": "The heads attract each other and spin around. There must be six heads for it to maintain balance.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/102.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/102.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/102.png"
+  },
+  "103": {
+    "name": "exeggutor",
+    "generation": 1,
+    "types": [
+      "grass",
+      "psychic"
+    ],
+    "height": 200,
+    "weight": 120000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Coconut Pokémon",
+    "description": "Its cries are very noisy. This is because each of the three heads thinks about whatever it likes.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/103.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/103.png"
+  },
+  "104": {
+    "name": "cubone",
+    "generation": 1,
+    "types": [
+      "ground"
+    ],
+    "height": 40,
+    "weight": 6500,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Lonely Pokémon",
+    "description": "Wears the skull of its deceased mother. Its cries echo inside the skull and come out as a sad melody.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/104.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/104.png"
+  },
+  "105": {
+    "name": "marowak",
+    "generation": 1,
+    "types": [
+      "ground"
+    ],
+    "height": 100,
+    "weight": 45000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Bone Keeper Pokémon",
+    "description": "Small and weak, this Pokémon is adept with its bone club. It has grown more vicious over the ages.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/105.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/105.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/105.png"
+  },
+  "106": {
+    "name": "hitmonlee",
+    "generation": 1,
+    "types": [
+      "fighting"
+    ],
+    "height": 150,
+    "weight": 49800,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Kicking Pokémon",
+    "description": "When kicking, the sole of its foot turns as hard as a diamond on impact and destroys its enemy.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/106.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/106.png"
+  },
+  "107": {
+    "name": "hitmonchan",
+    "generation": 1,
+    "types": [
+      "fighting"
+    ],
+    "height": 140,
+    "weight": 50200,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Punching Pokémon",
+    "description": "Punches in corkscrew fashion. It can punch its way through a concrete wall like a drill.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/107.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png"
+  },
+  "108": {
+    "name": "lickitung",
+    "generation": 1,
+    "types": [
+      "normal"
+    ],
+    "height": 120,
+    "weight": 65500,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Licking Pokémon",
+    "description": "Its tongue spans almost seven feet and moves more freely than its forelegs. Its licks can cause paralysis.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/108.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/108.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/108.png"
+  },
+  "109": {
+    "name": "koffing",
+    "generation": 1,
+    "types": [
+      "poison"
+    ],
+    "height": 60,
+    "weight": 1000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Poison Gas Pokémon",
+    "description": "In hot places, its internal gases could expand and explode without any warning. Be very careful!",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/109.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/109.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/109.png"
+  },
+  "110": {
+    "name": "weezing",
+    "generation": 1,
+    "types": [
+      "poison"
+    ],
+    "height": 120,
+    "weight": 9500,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Poison Gas Pokémon",
+    "description": "This Pokémon lives and grows by absorbing poison gas, dust, and germs that exist inside garbage.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/110.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/110.png"
+  },
+  "111": {
+    "name": "rhyhorn",
+    "generation": 1,
+    "types": [
+      "ground",
+      "rock"
+    ],
+    "height": 100,
+    "weight": 115000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Spikes Pokémon",
+    "description": "A Pokémon with a one-track mind. Once it charges, it won’t stop running until it falls asleep.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/111.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/111.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/111.png"
+  },
+  "112": {
+    "name": "rhydon",
+    "generation": 1,
+    "types": [
+      "ground",
+      "rock"
+    ],
+    "height": 190,
+    "weight": 120000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Drill Pokémon",
+    "description": "Its brain developed when it began walking on its hind legs. Its armor-like hide even repels molten lava.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/112.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/112.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/112.png"
+  },
+  "113": {
+    "name": "chansey",
+    "generation": 1,
+    "types": [
+      "normal"
+    ],
+    "height": 110,
+    "weight": 34600,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Egg Pokémon",
+    "description": "A gentle and kindhearted Pokémon that shares its nutritious eggs if it sees an injured Pokémon.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/113.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png"
+  },
+  "114": {
+    "name": "tangela",
+    "generation": 1,
+    "types": [
+      "grass"
+    ],
+    "height": 100,
+    "weight": 35000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Vine Pokémon",
+    "description": "Its identity is obscured by masses of thick blue vines. The vines are said to never stop growing.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/114.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/114.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png"
+  },
+  "115": {
+    "name": "kangaskhan",
+    "generation": 1,
+    "types": [
+      "normal"
+    ],
+    "height": 220,
+    "weight": 80000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Parent Pokémon",
+    "description": "Raises its young in its belly pouch. Won’t run from any fight to keep its young protected.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/115.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png"
+  },
+  "116": {
+    "name": "horsea",
+    "generation": 1,
+    "types": [
+      "water"
+    ],
+    "height": 40,
+    "weight": 8000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Dragon Pokémon",
+    "description": "If it senses any danger, it will vigorously spray water or a special type of ink from its mouth.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/116.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/116.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/116.png"
+  },
+  "117": {
+    "name": "seadra",
+    "generation": 1,
+    "types": [
+      "water"
+    ],
+    "height": 120,
+    "weight": 25000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Dragon Pokémon",
+    "description": "Touching the back fin causes numbness. It hooks its tail to coral to stay in place while sleeping.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/117.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png"
+  },
+  "118": {
+    "name": "goldeen",
+    "generation": 1,
+    "types": [
+      "water"
+    ],
+    "height": 60,
+    "weight": 15000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Goldfish Pokémon",
+    "description": "When it is time for them to lay eggs, they can be seen swimming up rivers and falls in large groups.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/118.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/118.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png"
+  },
+  "119": {
+    "name": "seaking",
+    "generation": 1,
+    "types": [
+      "water"
+    ],
+    "height": 130,
+    "weight": 39000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Goldfish Pokémon",
+    "description": "It is the male’s job to make a nest by carving out boulders in a stream using the horn on its head.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/119.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/119.png"
+  },
+  "120": {
+    "name": "staryu",
+    "generation": 1,
+    "types": [
+      "water"
+    ],
+    "height": 80,
+    "weight": 34500,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Star Shape Pokémon",
+    "description": "As long as the center section is unharmed, this Pokémon can grow back fully even if it is chopped to bits.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/120.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/120.png"
+  },
+  "121": {
+    "name": "starmie",
+    "generation": 1,
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "height": 110,
+    "weight": 80000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Mysterious Pokémon",
+    "description": "The center section is named the core. People think it is communicating when it glows in seven colors.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/121.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png"
+  },
+  "122": {
+    "name": "mr-mime",
+    "generation": 1,
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "height": 130,
+    "weight": 54500,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Barrier Pokémon",
+    "description": "Always practicing its pantomime act. It makes enemies believe something exists that really doesn’t.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/122.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/122.png"
+  },
+  "123": {
+    "name": "scyther",
+    "generation": 1,
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "height": 150,
+    "weight": 56000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Mantis Pokémon",
+    "description": "Leaps out of tall grass and slices prey with its scythes. The movement looks like that of a ninja.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/123.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png"
+  },
+  "124": {
+    "name": "jynx",
+    "generation": 1,
+    "types": [
+      "ice",
+      "psychic"
+    ],
+    "height": 140,
+    "weight": 40600,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Human Shape Pokémon",
+    "description": "Appears to move to a rhythm of its own, as if it were dancing. It wiggles its hips as it walks.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/124.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/124.png"
+  },
+  "125": {
+    "name": "electabuzz",
+    "generation": 1,
+    "types": [
+      "electric"
+    ],
+    "height": 110,
+    "weight": 30000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Electric Pokémon",
+    "description": "If a major power outage occurs, it is certain that this Pokémon has eaten electricity at a power plant.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/125.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/125.png"
+  },
+  "126": {
+    "name": "magmar",
+    "generation": 1,
+    "types": [
+      "fire"
+    ],
+    "height": 130,
+    "weight": 44500,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Spitfire Pokémon",
+    "description": "Born in an active volcano. Its body is always cloaked in flames, so it looks like a big ball of fire.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/126.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/126.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/126.png"
+  },
+  "127": {
+    "name": "pinsir",
+    "generation": 1,
+    "types": [
+      "bug"
+    ],
+    "height": 150,
+    "weight": 55000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Stag Beetle Pokémon",
+    "description": "Grips its prey in its pincers and squeezes hard! It can’t move if it’s cold out, so it lives in warm places.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/127.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/127.png"
+  },
+  "128": {
+    "name": "tauros",
+    "generation": 1,
+    "types": [
+      "normal"
+    ],
+    "height": 140,
+    "weight": 88400,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Wild Bull Pokémon",
+    "description": "A rowdy Pokémon with a lot of stamina. Once running, it won’t stop until it hits something.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/128.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/128.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/128.png"
+  },
+  "129": {
+    "name": "magikarp",
+    "generation": 1,
+    "types": [
+      "water"
+    ],
+    "height": 90,
+    "weight": 10000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Fish Pokémon",
+    "description": "Famous for being very unreliable. It can be found swimming in seas, lakes, rivers, and shallow puddles.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/129.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png"
+  },
+  "130": {
+    "name": "gyarados",
+    "generation": 1,
+    "types": [
+      "water",
+      "flying"
+    ],
+    "height": 650,
+    "weight": 235000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Atrocious Pokémon",
+    "description": "Brutally vicious and enormously destructive. Known for totally destroying cities in ancient times.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/130.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png"
+  },
+  "131": {
+    "name": "lapras",
+    "generation": 1,
+    "types": [
+      "water",
+      "ice"
+    ],
+    "height": 250,
+    "weight": 220000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Transport Pokémon",
+    "description": "A gentle soul that can understand human speech. It can ferry people across the sea on its back.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/131.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png"
+  },
+  "132": {
+    "name": "ditto",
+    "generation": 1,
+    "types": [
+      "normal"
+    ],
+    "height": 30,
+    "weight": 4000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Transform Pokémon",
+    "description": "When it spots an enemy, its body transfigures into an almost-perfect copy of its opponent.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/132.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png"
+  },
+  "133": {
+    "name": "eevee",
+    "generation": 1,
+    "types": [
+      "normal"
+    ],
+    "height": 30,
+    "weight": 6500,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Evolution Pokémon",
+    "description": "It can evolve into a variety of forms. Eevee’s genes are the key to solving the mysteries of Pokémon evolution.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/133.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png"
+  },
+  "134": {
+    "name": "vaporeon",
+    "generation": 1,
+    "types": [
+      "water"
+    ],
+    "height": 100,
+    "weight": 29000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Bubble Jet Pokémon",
+    "description": "Its cell structure is similar to water molecules. It melts into the water and becomes invisible.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/134.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png"
+  },
+  "135": {
+    "name": "jolteon",
+    "generation": 1,
+    "types": [
+      "electric"
+    ],
+    "height": 80,
+    "weight": 24500,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Lightning Pokémon",
+    "description": "A sensitive Pokémon that easily becomes sad or angry. Every time its mood changes, it charges power.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/135.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png"
+  },
+  "136": {
+    "name": "flareon",
+    "generation": 1,
+    "types": [
+      "fire"
+    ],
+    "height": 90,
+    "weight": 25000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Flame Pokémon",
+    "description": "It has a flame chamber inside its body. It inhales, then breathes out fire that is over 3,000 degrees Fahrenheit.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/136.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png"
+  },
+  "137": {
+    "name": "porygon",
+    "generation": 1,
+    "types": [
+      "normal"
+    ],
+    "height": 80,
+    "weight": 36500,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Virtual Pokémon",
+    "description": "The only Pokémon that people anticipate can fly into space. None has managed the feat yet, however.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/137.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/137.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png"
+  },
+  "138": {
+    "name": "omanyte",
+    "generation": 1,
+    "types": [
+      "rock",
+      "water"
+    ],
+    "height": 40,
+    "weight": 7500,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Spiral Pokémon",
+    "description": "An ancient Pokémon that was recovered from a fossil. It swam by cleverly twisting its 10 tentacles about.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/138.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/138.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/138.png"
+  },
+  "139": {
+    "name": "omastar",
+    "generation": 1,
+    "types": [
+      "rock",
+      "water"
+    ],
+    "height": 100,
+    "weight": 35000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Spiral Pokémon",
+    "description": "Its sharp beak rings its mouth. Its shell was too big for it to move freely, so it became extinct.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/139.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/139.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/139.png"
+  },
+  "140": {
+    "name": "kabuto",
+    "generation": 1,
+    "types": [
+      "rock",
+      "water"
+    ],
+    "height": 50,
+    "weight": 11500,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Shellfish Pokémon",
+    "description": "A Pokémon that was recovered from a fossil. It used the eyes on its back while hiding on the seafloor.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/140.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/140.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/140.png"
+  },
+  "141": {
+    "name": "kabutops",
+    "generation": 1,
+    "types": [
+      "rock",
+      "water"
+    ],
+    "height": 130,
+    "weight": 40500,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Shellfish Pokémon",
+    "description": "A slim and fast swimmer. It sliced its prey with its sharp sickles and drank the body fluids.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/141.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/141.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/141.png"
+  },
+  "142": {
+    "name": "aerodactyl",
+    "generation": 1,
+    "types": [
+      "rock",
+      "flying"
+    ],
+    "height": 180,
+    "weight": 59000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Fossil Pokémon",
+    "description": "A savage Pokémon that died out in ancient times. It was resurrected using DNA taken from amber.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/142.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/142.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/142.png"
+  },
+  "143": {
+    "name": "snorlax",
+    "generation": 1,
+    "types": [
+      "normal"
+    ],
+    "height": 210,
+    "weight": 460000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Sleeping Pokémon",
+    "description": "Will eat anything, even if the food happens to be a little moldy. It never gets an upset stomach.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/143.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png"
+  },
+  "144": {
+    "name": "articuno",
+    "generation": 1,
+    "types": [
+      "ice",
+      "flying"
+    ],
+    "height": 170,
+    "weight": 55400,
+    "is_baby": false,
+    "is_legendary": true,
+    "is_mythical": false,
+    "genus": "Freeze Pokémon",
+    "description": "A legendary bird Pokémon. It freezes water that is contained in winter air and makes it snow.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/144.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/144.png"
+  },
+  "145": {
+    "name": "zapdos",
+    "generation": 1,
+    "types": [
+      "electric",
+      "flying"
+    ],
+    "height": 160,
+    "weight": 52600,
+    "is_baby": false,
+    "is_legendary": true,
+    "is_mythical": false,
+    "genus": "Electric Pokémon",
+    "description": "This legendary bird Pokémon is said to appear when the sky turns dark and lightning showers down.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/145.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/145.png"
+  },
+  "146": {
+    "name": "moltres",
+    "generation": 1,
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "height": 200,
+    "weight": 60000,
+    "is_baby": false,
+    "is_legendary": true,
+    "is_mythical": false,
+    "genus": "Flame Pokémon",
+    "description": "A legendary bird Pokémon. As it flaps its flaming wings, even the night sky will turn red.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/146.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/146.png"
+  },
+  "147": {
+    "name": "dratini",
+    "generation": 1,
+    "types": [
+      "dragon"
+    ],
+    "height": 180,
+    "weight": 3300,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Dragon Pokémon",
+    "description": "Long thought to be a myth, this Pokémon’s existence was only recently confirmed by a fisherman who caught one.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/147.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/147.png"
+  },
+  "148": {
+    "name": "dragonair",
+    "generation": 1,
+    "types": [
+      "dragon"
+    ],
+    "height": 400,
+    "weight": 16500,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Dragon Pokémon",
+    "description": "According to a witness, its body was surrounded by a strange aura that gave it a mystical look.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/148.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/148.png"
+  },
+  "149": {
+    "name": "dragonite",
+    "generation": 1,
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "height": 220,
+    "weight": 210000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": false,
+    "genus": "Dragon Pokémon",
+    "description": "It is said that this Pokémon lives somewhere in the sea and that it flies. However, these are only rumors.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/149.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png"
+  },
+  "150": {
+    "name": "mewtwo",
+    "generation": 1,
+    "types": [
+      "psychic"
+    ],
+    "height": 200,
+    "weight": 122000,
+    "is_baby": false,
+    "is_legendary": true,
+    "is_mythical": false,
+    "genus": "Genetic Pokémon",
+    "description": "Its DNA is almost the same as Mew’s. However, its size and disposition are vastly different.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/150.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png"
+  },
+  "151": {
+    "name": "mew",
+    "generation": 1,
+    "types": [
+      "psychic"
+    ],
+    "height": 40,
+    "weight": 4000,
+    "is_baby": false,
+    "is_legendary": false,
+    "is_mythical": true,
+    "genus": "New Species Pokémon",
+    "description": "When viewed through a microscope, this Pokémon’s short, fine, delicate hair can be seen.",
+    "sprite_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png",
+    "sprite_home_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/151.png",
+    "sprite_official_front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/151.png"
+  }
+}
