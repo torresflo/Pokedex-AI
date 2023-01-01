@@ -1,0 +1,2 @@
+data/model/config.json filter=lfs diff=lfs merge=lfs -text
+data/model/pytorch_model.bin filter=lfs diff=lfs merge=lfs -text
