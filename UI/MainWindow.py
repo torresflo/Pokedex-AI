@@ -21,7 +21,7 @@ class MainWindow(QtWidgets.QWidget):
         self.m_selectedFileLineEdit = QtWidgets.QLineEdit()
         self.m_selectedFileLineEdit.setReadOnly(True)
         self.m_selectFileButton = QtWidgets.QPushButton("Select image...")
-        self.m_classifyImageButton = QtWidgets.QPushButton("Search pokémon")
+        self.m_classifyImageButton = QtWidgets.QPushButton("Search Pokémon")
 
         self.m_selectFileLayout = QtWidgets.QHBoxLayout()
         self.m_selectFileLayout.addWidget(self.m_selectedFileLineEdit)
