@@ -4,11 +4,13 @@ from Model.PokemonData import Pokedex
 from Model.PokemonModel import PokemonModel
 
 from UI.QPokemonImageLabel import QPokemonImageLabel
+from UI.QPokedexButton import QPokedexButton
 
 from Utils.DataTools import DataSaver
 
-class PokedexWidget(QtWidgets.QWidget):
+class QPokedexWidget(QtWidgets.QWidget):
     def __init__(self, parent=None):
+        self.m_dragPosition = QtCore.QPointF(0, 0)
         super().__init__(parent)
 
         self.m_pokedex = Pokedex()
@@ -17,16 +19,22 @@ class PokedexWidget(QtWidgets.QWidget):
         self.m_fileName = ""
         self.m_predictionModel = PokemonModel()
 
+        # Title Bar
+        self.m_minimizeWindowButton = QPokedexButton("_")
+        self.m_closeWindowButton = QPokedexButton("X")
+        
         # Select file
-        self.m_selectedFileLineEdit = QtWidgets.QLineEdit()
-        self.m_selectedFileLineEdit.setReadOnly(True)
-        self.m_selectFileButton = QtWidgets.QPushButton("Select image...")
-        self.m_classifyImageButton = QtWidgets.QPushButton("Search Pokémon")
+        self.m_selectFileButton = QPokedexButton("Select image...")
+        self.m_classifyImageButton = QPokedexButton("Search Pokémon")
+        self.m_classifyImageButton.setEnabled(False)
 
         self.m_selectFileLayout = QtWidgets.QHBoxLayout()
-        self.m_selectFileLayout.addWidget(self.m_selectedFileLineEdit)
         self.m_selectFileLayout.addWidget(self.m_selectFileButton)
         self.m_selectFileLayout.addWidget(self.m_classifyImageButton)
+        self.m_selectFileLayout.addStretch()
+        self.m_selectFileLayout.addWidget(self.m_minimizeWindowButton)
+        self.m_selectFileLayout.addWidget(self.m_closeWindowButton)
+
         # Pokemon Page
         font = self.font()
 
@@ -82,10 +90,10 @@ class PokedexWidget(QtWidgets.QWidget):
         self.m_pokemonLayout.addWidget(self.m_pokemonImageLabel)
 
         # Navigation
-        self.m_tenPreviousPokemonButton = QtWidgets.QPushButton(" << ")
-        self.m_previousPokemonButton = QtWidgets.QPushButton(" < ")
-        self.m_nextPokemonButton = QtWidgets.QPushButton(" > ")
-        self.m_tenNextPokemonButton = QtWidgets.QPushButton(" >> ")
+        self.m_tenPreviousPokemonButton = QPokedexButton(" << ")
+        self.m_previousPokemonButton = QPokedexButton(" < ")
+        self.m_nextPokemonButton = QPokedexButton(" > ")
+        self.m_tenNextPokemonButton = QPokedexButton(" >> ")
         self.m_navigationLayout = QtWidgets.QHBoxLayout()
         self.m_navigationLayout.addStretch()
         self.m_navigationLayout.addWidget(self.m_tenPreviousPokemonButton)
@@ -101,7 +109,13 @@ class PokedexWidget(QtWidgets.QWidget):
         self.layout.addLayout(self.m_navigationLayout)
         self.layout.setSizeConstraint(QtWidgets.QLayout.SetFixedSize)
 
+        # Window
+        self.setWindowFlags(QtCore.Qt.Window | QtCore.Qt.FramelessWindowHint)
+
         # Connect
+        self.m_minimizeWindowButton.clicked.connect(self.showMinimized)
+        self.m_closeWindowButton.clicked.connect(self.close)
+
         self.m_selectFileButton.clicked.connect(self.onSelectFileButtonClicked)
         self.m_classifyImageButton.clicked.connect(self.onClassifyImageButtonClicked)
         self.m_tenPreviousPokemonButton.clicked.connect(self.onTenPreviousPokemonButtonClicked)
@@ -153,8 +167,6 @@ class PokedexWidget(QtWidgets.QWidget):
         return pokemonNumber
 
     def paintEvent(self, event: QtGui.QPaintEvent):
-        super().paintEvent(event)
-
         painter = QtGui.QPainter()
         painter.begin(self)
         painter.setPen(QtGui.Qt.NoPen)
@@ -164,6 +176,7 @@ class PokedexWidget(QtWidgets.QWidget):
         height = rect.height()
         offset = width / 10
 
+        # Left shape
         polygon = QtGui.QPolygon()
         polygon.append(QtCore.QPoint(width / 70, height / 10))
         polygon.append(QtCore.QPoint(width, height / 10))
@@ -173,6 +186,18 @@ class PokedexWidget(QtWidgets.QWidget):
         painter.setBrush(QtGui.QColor(251, 114, 72))
         painter.drawPolygon(polygon)
 
+        # Middle shape
+        polygon.clear()
+        polygon = QtGui.QPolygon()
+        polygon.append(QtCore.QPoint(width / 2 + offset - 30, 0))
+        polygon.append(QtCore.QPoint(width, 0))
+        polygon.append(QtCore.QPoint(width, height))
+        polygon.append(QtCore.QPoint(width / 2 - offset - 30, height))
+        
+        painter.setBrush(QtGui.QColor(253, 121, 73))
+        painter.drawPolygon(polygon)
+
+        # Right shape
         polygon.clear()
         polygon = QtGui.QPolygon()
         polygon.append(QtCore.QPoint(width / 2 + offset, 0))
@@ -185,13 +210,34 @@ class PokedexWidget(QtWidgets.QWidget):
 
         painter.end()
 
+    def mouseMoveEvent(self, event: QtGui.QMouseEvent) -> None:
+        if event.buttons() == QtCore.Qt.LeftButton:
+            newPosition = event.localPos() - self.m_dragPosition + self.window().pos()
+            self.window().move(newPosition.x(), newPosition.y())
+        else:
+            return super().mouseMoveEvent(event)
+
+    def mousePressEvent(self, event: QtGui.QMouseEvent) -> None:
+        self.m_dragPosition = event.localPos()
+        return super().mousePressEvent(event)
+
+    def mouseReleaseEvent(self, event: QtGui.QMouseEvent) -> None:
+        self.m_dragPosition = QtCore.QPointF(0, 0)
+        return super().mouseReleaseEvent(event)
+
+    def event(self, e: QtCore.QEvent) -> bool:
+        if e.type() != QtCore.QEvent.Paint and self.m_dragPosition == QtCore.QPointF(0, 0):
+            self.update()
+        return super().event(e)
+
     @QtCore.Slot()
     def onSelectFileButtonClicked(self):
         fileName, selectedFilter = QtWidgets.QFileDialog.getOpenFileName(self, "Please select an image", "", "Images (*.png *.jpg)")
         fileInfo = QtCore.QFileInfo(fileName)
         if fileInfo.exists() and fileInfo.isFile():
             self.m_fileName = fileName
-            self.m_selectedFileLineEdit.setText(fileName)
+            self.m_selectFileButton.setText("Image selected")
+            self.m_classifyImageButton.setEnabled(True)
 
     @QtCore.Slot()
     def onClassifyImageButtonClicked(self):
@@ -201,6 +247,9 @@ class PokedexWidget(QtWidgets.QWidget):
 
             prediction = self.m_predictionModel.computePrediction(self.m_fileName)
             self.fillPokemonData(prediction[0])
+
+            self.m_selectFileButton.setText("Select image...")
+            self.m_classifyImageButton.setEnabled(False)
 
     @QtCore.Slot()
     def onTenPreviousPokemonButtonClicked(self):
