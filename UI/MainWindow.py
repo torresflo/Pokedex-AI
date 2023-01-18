@@ -55,9 +55,12 @@ class MainWindow(QtWidgets.QWidget):
         font.setPointSize(16)
         self.m_pokemonDescriptionLabel.setFont(font)
 
+        self.m_pokemonAbilitiesLabel = QtWidgets.QLabel("Abilities")
+        font.setPointSize(12)
+        self.m_pokemonAbilitiesLabel.setFont(font)
+
         self.m_pokemonHeightLabel = QtWidgets.QLabel("Height")
         self.m_pokemonWeightLabel = QtWidgets.QLabel("Weight")
-        font.setPointSize(12)
         self.m_pokemonHeightLabel.setFont(font)
         self.m_pokemonWeightLabel.setFont(font)
 
@@ -67,6 +70,7 @@ class MainWindow(QtWidgets.QWidget):
         self.m_pokemonDataLayout.addLayout(self.m_pokemonTypesLayout)
         self.m_pokemonDataLayout.addWidget(self.m_pokemonGenusLabel)
         self.m_pokemonDataLayout.addWidget(self.m_pokemonDescriptionLabel)
+        self.m_pokemonDataLayout.addWidget(self.m_pokemonAbilitiesLabel)
         self.m_pokemonDataLayout.addWidget(self.m_pokemonHeightLabel)
         self.m_pokemonDataLayout.addWidget(self.m_pokemonWeightLabel)
         self.m_pokemonDataLayout.addStretch()
@@ -119,6 +123,17 @@ class MainWindow(QtWidgets.QWidget):
         self.m_pokemonNameLabel.setText(f"{pokemonData[Pokedex.JsonNameKey].upper()}")
         self.m_pokemonGenusLabel.setText(f"{pokemonData[Pokedex.JsonGenusKey]}")
         self.m_pokemonDescriptionLabel.setText(f"{pokemonData[Pokedex.JsonDescriptionKey]}")
+
+        abilitiesText = "Abilities:"
+        abilities = pokemonData[Pokedex.JsonAbilitiesKey]
+        for ability in abilities:
+            abilityText = ability[Pokedex.JsonNameKey].replace("-", " ")
+            if ability[Pokedex.JsonAbilityIsHiddenKey]:
+                abilityText = f"{abilityText} (hidden)"
+            abilitiesText = f"{abilitiesText} {abilityText},"
+        abilitiesText = abilitiesText[:-1]
+        self.m_pokemonAbilitiesLabel.setText(abilitiesText)
+
         self.m_pokemonHeightLabel.setText(f"Height: {pokemonData[Pokedex.JsonHeightKey]/100} meters")
         self.m_pokemonWeightLabel.setText(f"Weight: {pokemonData[Pokedex.JsonWeightKey]/1000} kilograms")
         
