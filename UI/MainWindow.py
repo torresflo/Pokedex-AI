@@ -7,7 +7,7 @@ from UI.QPokemonImageLabel import QPokemonImageLabel
 
 from Utils.DataTools import DataSaver
 
-class MainWindow(QtWidgets.QWidget):
+class PokedexWidget(QtWidgets.QWidget):
     def __init__(self, parent=None):
         super().__init__(parent)
 
