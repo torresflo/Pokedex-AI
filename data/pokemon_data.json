@@ -6,6 +6,42 @@
       "grass",
       "poison"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 45
+      },
+      {
+        "name": "attack",
+        "value": 49
+      },
+      {
+        "name": "defense",
+        "value": 49
+      },
+      {
+        "name": "special-attack",
+        "value": 65
+      },
+      {
+        "name": "special-defense",
+        "value": 65
+      },
+      {
+        "name": "speed",
+        "value": 45
+      }
+    ],
+    "abilities": [
+      {
+        "name": "overgrow",
+        "is_hidden": false
+      },
+      {
+        "name": "chlorophyll",
+        "is_hidden": true
+      }
+    ],
     "height": 70,
     "weight": 6900,
     "is_baby": false,
@@ -23,6 +59,42 @@
     "types": [
       "grass",
       "poison"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 60
+      },
+      {
+        "name": "attack",
+        "value": 62
+      },
+      {
+        "name": "defense",
+        "value": 63
+      },
+      {
+        "name": "special-attack",
+        "value": 80
+      },
+      {
+        "name": "special-defense",
+        "value": 80
+      },
+      {
+        "name": "speed",
+        "value": 60
+      }
+    ],
+    "abilities": [
+      {
+        "name": "overgrow",
+        "is_hidden": false
+      },
+      {
+        "name": "chlorophyll",
+        "is_hidden": true
+      }
     ],
     "height": 100,
     "weight": 13000,
@@ -42,6 +114,42 @@
       "grass",
       "poison"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 80
+      },
+      {
+        "name": "attack",
+        "value": 82
+      },
+      {
+        "name": "defense",
+        "value": 83
+      },
+      {
+        "name": "special-attack",
+        "value": 100
+      },
+      {
+        "name": "special-defense",
+        "value": 100
+      },
+      {
+        "name": "speed",
+        "value": 80
+      }
+    ],
+    "abilities": [
+      {
+        "name": "overgrow",
+        "is_hidden": false
+      },
+      {
+        "name": "chlorophyll",
+        "is_hidden": true
+      }
+    ],
     "height": 200,
     "weight": 100000,
     "is_baby": false,
@@ -59,6 +167,42 @@
     "types": [
       "fire"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 39
+      },
+      {
+        "name": "attack",
+        "value": 52
+      },
+      {
+        "name": "defense",
+        "value": 43
+      },
+      {
+        "name": "special-attack",
+        "value": 60
+      },
+      {
+        "name": "special-defense",
+        "value": 50
+      },
+      {
+        "name": "speed",
+        "value": 65
+      }
+    ],
+    "abilities": [
+      {
+        "name": "blaze",
+        "is_hidden": false
+      },
+      {
+        "name": "solar-power",
+        "is_hidden": true
+      }
+    ],
     "height": 60,
     "weight": 8500,
     "is_baby": false,
@@ -75,6 +219,42 @@
     "generation": 1,
     "types": [
       "fire"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 58
+      },
+      {
+        "name": "attack",
+        "value": 64
+      },
+      {
+        "name": "defense",
+        "value": 58
+      },
+      {
+        "name": "special-attack",
+        "value": 80
+      },
+      {
+        "name": "special-defense",
+        "value": 65
+      },
+      {
+        "name": "speed",
+        "value": 80
+      }
+    ],
+    "abilities": [
+      {
+        "name": "blaze",
+        "is_hidden": false
+      },
+      {
+        "name": "solar-power",
+        "is_hidden": true
+      }
     ],
     "height": 110,
     "weight": 19000,
@@ -94,6 +274,42 @@
       "fire",
       "flying"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 78
+      },
+      {
+        "name": "attack",
+        "value": 84
+      },
+      {
+        "name": "defense",
+        "value": 78
+      },
+      {
+        "name": "special-attack",
+        "value": 109
+      },
+      {
+        "name": "special-defense",
+        "value": 85
+      },
+      {
+        "name": "speed",
+        "value": 100
+      }
+    ],
+    "abilities": [
+      {
+        "name": "blaze",
+        "is_hidden": false
+      },
+      {
+        "name": "solar-power",
+        "is_hidden": true
+      }
+    ],
     "height": 170,
     "weight": 90500,
     "is_baby": false,
@@ -110,6 +326,42 @@
     "generation": 1,
     "types": [
       "water"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 44
+      },
+      {
+        "name": "attack",
+        "value": 48
+      },
+      {
+        "name": "defense",
+        "value": 65
+      },
+      {
+        "name": "special-attack",
+        "value": 50
+      },
+      {
+        "name": "special-defense",
+        "value": 64
+      },
+      {
+        "name": "speed",
+        "value": 43
+      }
+    ],
+    "abilities": [
+      {
+        "name": "torrent",
+        "is_hidden": false
+      },
+      {
+        "name": "rain-dish",
+        "is_hidden": true
+      }
     ],
     "height": 50,
     "weight": 9000,
@@ -128,6 +380,42 @@
     "types": [
       "water"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 59
+      },
+      {
+        "name": "attack",
+        "value": 63
+      },
+      {
+        "name": "defense",
+        "value": 80
+      },
+      {
+        "name": "special-attack",
+        "value": 65
+      },
+      {
+        "name": "special-defense",
+        "value": 80
+      },
+      {
+        "name": "speed",
+        "value": 58
+      }
+    ],
+    "abilities": [
+      {
+        "name": "torrent",
+        "is_hidden": false
+      },
+      {
+        "name": "rain-dish",
+        "is_hidden": true
+      }
+    ],
     "height": 100,
     "weight": 22500,
     "is_baby": false,
@@ -144,6 +432,42 @@
     "generation": 1,
     "types": [
       "water"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 79
+      },
+      {
+        "name": "attack",
+        "value": 83
+      },
+      {
+        "name": "defense",
+        "value": 100
+      },
+      {
+        "name": "special-attack",
+        "value": 85
+      },
+      {
+        "name": "special-defense",
+        "value": 105
+      },
+      {
+        "name": "speed",
+        "value": 78
+      }
+    ],
+    "abilities": [
+      {
+        "name": "torrent",
+        "is_hidden": false
+      },
+      {
+        "name": "rain-dish",
+        "is_hidden": true
+      }
     ],
     "height": 160,
     "weight": 85500,
@@ -162,6 +486,42 @@
     "types": [
       "bug"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 45
+      },
+      {
+        "name": "attack",
+        "value": 30
+      },
+      {
+        "name": "defense",
+        "value": 35
+      },
+      {
+        "name": "special-attack",
+        "value": 20
+      },
+      {
+        "name": "special-defense",
+        "value": 20
+      },
+      {
+        "name": "speed",
+        "value": 45
+      }
+    ],
+    "abilities": [
+      {
+        "name": "shield-dust",
+        "is_hidden": false
+      },
+      {
+        "name": "run-away",
+        "is_hidden": true
+      }
+    ],
     "height": 30,
     "weight": 2900,
     "is_baby": false,
@@ -178,6 +538,38 @@
     "generation": 1,
     "types": [
       "bug"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 50
+      },
+      {
+        "name": "attack",
+        "value": 20
+      },
+      {
+        "name": "defense",
+        "value": 55
+      },
+      {
+        "name": "special-attack",
+        "value": 25
+      },
+      {
+        "name": "special-defense",
+        "value": 25
+      },
+      {
+        "name": "speed",
+        "value": 30
+      }
+    ],
+    "abilities": [
+      {
+        "name": "shed-skin",
+        "is_hidden": false
+      }
     ],
     "height": 70,
     "weight": 9900,
@@ -197,6 +589,42 @@
       "bug",
       "flying"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 60
+      },
+      {
+        "name": "attack",
+        "value": 45
+      },
+      {
+        "name": "defense",
+        "value": 50
+      },
+      {
+        "name": "special-attack",
+        "value": 90
+      },
+      {
+        "name": "special-defense",
+        "value": 80
+      },
+      {
+        "name": "speed",
+        "value": 70
+      }
+    ],
+    "abilities": [
+      {
+        "name": "compound-eyes",
+        "is_hidden": false
+      },
+      {
+        "name": "tinted-lens",
+        "is_hidden": true
+      }
+    ],
     "height": 110,
     "weight": 32000,
     "is_baby": false,
@@ -214,6 +642,42 @@
     "types": [
       "bug",
       "poison"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 40
+      },
+      {
+        "name": "attack",
+        "value": 35
+      },
+      {
+        "name": "defense",
+        "value": 30
+      },
+      {
+        "name": "special-attack",
+        "value": 20
+      },
+      {
+        "name": "special-defense",
+        "value": 20
+      },
+      {
+        "name": "speed",
+        "value": 50
+      }
+    ],
+    "abilities": [
+      {
+        "name": "shield-dust",
+        "is_hidden": false
+      },
+      {
+        "name": "run-away",
+        "is_hidden": true
+      }
     ],
     "height": 30,
     "weight": 3200,
@@ -233,6 +697,38 @@
       "bug",
       "poison"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 45
+      },
+      {
+        "name": "attack",
+        "value": 25
+      },
+      {
+        "name": "defense",
+        "value": 50
+      },
+      {
+        "name": "special-attack",
+        "value": 25
+      },
+      {
+        "name": "special-defense",
+        "value": 25
+      },
+      {
+        "name": "speed",
+        "value": 35
+      }
+    ],
+    "abilities": [
+      {
+        "name": "shed-skin",
+        "is_hidden": false
+      }
+    ],
     "height": 60,
     "weight": 10000,
     "is_baby": false,
@@ -250,6 +746,42 @@
     "types": [
       "bug",
       "poison"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 65
+      },
+      {
+        "name": "attack",
+        "value": 90
+      },
+      {
+        "name": "defense",
+        "value": 40
+      },
+      {
+        "name": "special-attack",
+        "value": 45
+      },
+      {
+        "name": "special-defense",
+        "value": 80
+      },
+      {
+        "name": "speed",
+        "value": 75
+      }
+    ],
+    "abilities": [
+      {
+        "name": "swarm",
+        "is_hidden": false
+      },
+      {
+        "name": "sniper",
+        "is_hidden": true
+      }
     ],
     "height": 100,
     "weight": 29500,
@@ -269,6 +801,46 @@
       "normal",
       "flying"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 40
+      },
+      {
+        "name": "attack",
+        "value": 45
+      },
+      {
+        "name": "defense",
+        "value": 40
+      },
+      {
+        "name": "special-attack",
+        "value": 35
+      },
+      {
+        "name": "special-defense",
+        "value": 35
+      },
+      {
+        "name": "speed",
+        "value": 56
+      }
+    ],
+    "abilities": [
+      {
+        "name": "keen-eye",
+        "is_hidden": false
+      },
+      {
+        "name": "tangled-feet",
+        "is_hidden": false
+      },
+      {
+        "name": "big-pecks",
+        "is_hidden": true
+      }
+    ],
     "height": 30,
     "weight": 1800,
     "is_baby": false,
@@ -286,6 +858,46 @@
     "types": [
       "normal",
       "flying"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 63
+      },
+      {
+        "name": "attack",
+        "value": 60
+      },
+      {
+        "name": "defense",
+        "value": 55
+      },
+      {
+        "name": "special-attack",
+        "value": 50
+      },
+      {
+        "name": "special-defense",
+        "value": 50
+      },
+      {
+        "name": "speed",
+        "value": 71
+      }
+    ],
+    "abilities": [
+      {
+        "name": "keen-eye",
+        "is_hidden": false
+      },
+      {
+        "name": "tangled-feet",
+        "is_hidden": false
+      },
+      {
+        "name": "big-pecks",
+        "is_hidden": true
+      }
     ],
     "height": 110,
     "weight": 30000,
@@ -305,6 +917,46 @@
       "normal",
       "flying"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 83
+      },
+      {
+        "name": "attack",
+        "value": 80
+      },
+      {
+        "name": "defense",
+        "value": 75
+      },
+      {
+        "name": "special-attack",
+        "value": 70
+      },
+      {
+        "name": "special-defense",
+        "value": 70
+      },
+      {
+        "name": "speed",
+        "value": 101
+      }
+    ],
+    "abilities": [
+      {
+        "name": "keen-eye",
+        "is_hidden": false
+      },
+      {
+        "name": "tangled-feet",
+        "is_hidden": false
+      },
+      {
+        "name": "big-pecks",
+        "is_hidden": true
+      }
+    ],
     "height": 150,
     "weight": 39500,
     "is_baby": false,
@@ -322,6 +974,46 @@
     "types": [
       "normal"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 30
+      },
+      {
+        "name": "attack",
+        "value": 56
+      },
+      {
+        "name": "defense",
+        "value": 35
+      },
+      {
+        "name": "special-attack",
+        "value": 25
+      },
+      {
+        "name": "special-defense",
+        "value": 35
+      },
+      {
+        "name": "speed",
+        "value": 72
+      }
+    ],
+    "abilities": [
+      {
+        "name": "run-away",
+        "is_hidden": false
+      },
+      {
+        "name": "guts",
+        "is_hidden": false
+      },
+      {
+        "name": "hustle",
+        "is_hidden": true
+      }
+    ],
     "height": 30,
     "weight": 3500,
     "is_baby": false,
@@ -338,6 +1030,46 @@
     "generation": 1,
     "types": [
       "normal"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 55
+      },
+      {
+        "name": "attack",
+        "value": 81
+      },
+      {
+        "name": "defense",
+        "value": 60
+      },
+      {
+        "name": "special-attack",
+        "value": 50
+      },
+      {
+        "name": "special-defense",
+        "value": 70
+      },
+      {
+        "name": "speed",
+        "value": 97
+      }
+    ],
+    "abilities": [
+      {
+        "name": "run-away",
+        "is_hidden": false
+      },
+      {
+        "name": "guts",
+        "is_hidden": false
+      },
+      {
+        "name": "hustle",
+        "is_hidden": true
+      }
     ],
     "height": 70,
     "weight": 18500,
@@ -357,6 +1089,42 @@
       "normal",
       "flying"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 40
+      },
+      {
+        "name": "attack",
+        "value": 60
+      },
+      {
+        "name": "defense",
+        "value": 30
+      },
+      {
+        "name": "special-attack",
+        "value": 31
+      },
+      {
+        "name": "special-defense",
+        "value": 31
+      },
+      {
+        "name": "speed",
+        "value": 70
+      }
+    ],
+    "abilities": [
+      {
+        "name": "keen-eye",
+        "is_hidden": false
+      },
+      {
+        "name": "sniper",
+        "is_hidden": true
+      }
+    ],
     "height": 30,
     "weight": 2000,
     "is_baby": false,
@@ -375,6 +1143,42 @@
       "normal",
       "flying"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 65
+      },
+      {
+        "name": "attack",
+        "value": 90
+      },
+      {
+        "name": "defense",
+        "value": 65
+      },
+      {
+        "name": "special-attack",
+        "value": 61
+      },
+      {
+        "name": "special-defense",
+        "value": 61
+      },
+      {
+        "name": "speed",
+        "value": 100
+      }
+    ],
+    "abilities": [
+      {
+        "name": "keen-eye",
+        "is_hidden": false
+      },
+      {
+        "name": "sniper",
+        "is_hidden": true
+      }
+    ],
     "height": 120,
     "weight": 38000,
     "is_baby": false,
@@ -391,6 +1195,46 @@
     "generation": 1,
     "types": [
       "poison"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 35
+      },
+      {
+        "name": "attack",
+        "value": 60
+      },
+      {
+        "name": "defense",
+        "value": 44
+      },
+      {
+        "name": "special-attack",
+        "value": 40
+      },
+      {
+        "name": "special-defense",
+        "value": 54
+      },
+      {
+        "name": "speed",
+        "value": 55
+      }
+    ],
+    "abilities": [
+      {
+        "name": "intimidate",
+        "is_hidden": false
+      },
+      {
+        "name": "shed-skin",
+        "is_hidden": false
+      },
+      {
+        "name": "unnerve",
+        "is_hidden": true
+      }
     ],
     "height": 200,
     "weight": 6900,
@@ -409,6 +1253,46 @@
     "types": [
       "poison"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 60
+      },
+      {
+        "name": "attack",
+        "value": 95
+      },
+      {
+        "name": "defense",
+        "value": 69
+      },
+      {
+        "name": "special-attack",
+        "value": 65
+      },
+      {
+        "name": "special-defense",
+        "value": 79
+      },
+      {
+        "name": "speed",
+        "value": 80
+      }
+    ],
+    "abilities": [
+      {
+        "name": "intimidate",
+        "is_hidden": false
+      },
+      {
+        "name": "shed-skin",
+        "is_hidden": false
+      },
+      {
+        "name": "unnerve",
+        "is_hidden": true
+      }
+    ],
     "height": 350,
     "weight": 65000,
     "is_baby": false,
@@ -425,6 +1309,42 @@
     "generation": 1,
     "types": [
       "electric"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 35
+      },
+      {
+        "name": "attack",
+        "value": 55
+      },
+      {
+        "name": "defense",
+        "value": 40
+      },
+      {
+        "name": "special-attack",
+        "value": 50
+      },
+      {
+        "name": "special-defense",
+        "value": 50
+      },
+      {
+        "name": "speed",
+        "value": 90
+      }
+    ],
+    "abilities": [
+      {
+        "name": "static",
+        "is_hidden": false
+      },
+      {
+        "name": "lightning-rod",
+        "is_hidden": true
+      }
     ],
     "height": 40,
     "weight": 6000,
@@ -443,6 +1363,42 @@
     "types": [
       "electric"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 60
+      },
+      {
+        "name": "attack",
+        "value": 90
+      },
+      {
+        "name": "defense",
+        "value": 55
+      },
+      {
+        "name": "special-attack",
+        "value": 90
+      },
+      {
+        "name": "special-defense",
+        "value": 80
+      },
+      {
+        "name": "speed",
+        "value": 110
+      }
+    ],
+    "abilities": [
+      {
+        "name": "static",
+        "is_hidden": false
+      },
+      {
+        "name": "lightning-rod",
+        "is_hidden": true
+      }
+    ],
     "height": 80,
     "weight": 30000,
     "is_baby": false,
@@ -459,6 +1415,42 @@
     "generation": 1,
     "types": [
       "ground"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 50
+      },
+      {
+        "name": "attack",
+        "value": 75
+      },
+      {
+        "name": "defense",
+        "value": 85
+      },
+      {
+        "name": "special-attack",
+        "value": 20
+      },
+      {
+        "name": "special-defense",
+        "value": 30
+      },
+      {
+        "name": "speed",
+        "value": 40
+      }
+    ],
+    "abilities": [
+      {
+        "name": "sand-veil",
+        "is_hidden": false
+      },
+      {
+        "name": "sand-rush",
+        "is_hidden": true
+      }
     ],
     "height": 60,
     "weight": 12000,
@@ -477,6 +1469,42 @@
     "types": [
       "ground"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 75
+      },
+      {
+        "name": "attack",
+        "value": 100
+      },
+      {
+        "name": "defense",
+        "value": 110
+      },
+      {
+        "name": "special-attack",
+        "value": 45
+      },
+      {
+        "name": "special-defense",
+        "value": 55
+      },
+      {
+        "name": "speed",
+        "value": 65
+      }
+    ],
+    "abilities": [
+      {
+        "name": "sand-veil",
+        "is_hidden": false
+      },
+      {
+        "name": "sand-rush",
+        "is_hidden": true
+      }
+    ],
     "height": 100,
     "weight": 29500,
     "is_baby": false,
@@ -494,6 +1522,46 @@
     "types": [
       "poison"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 55
+      },
+      {
+        "name": "attack",
+        "value": 47
+      },
+      {
+        "name": "defense",
+        "value": 52
+      },
+      {
+        "name": "special-attack",
+        "value": 40
+      },
+      {
+        "name": "special-defense",
+        "value": 40
+      },
+      {
+        "name": "speed",
+        "value": 41
+      }
+    ],
+    "abilities": [
+      {
+        "name": "poison-point",
+        "is_hidden": false
+      },
+      {
+        "name": "rivalry",
+        "is_hidden": false
+      },
+      {
+        "name": "hustle",
+        "is_hidden": true
+      }
+    ],
     "height": 40,
     "weight": 7000,
     "is_baby": false,
@@ -510,6 +1578,46 @@
     "generation": 1,
     "types": [
       "poison"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 70
+      },
+      {
+        "name": "attack",
+        "value": 62
+      },
+      {
+        "name": "defense",
+        "value": 67
+      },
+      {
+        "name": "special-attack",
+        "value": 55
+      },
+      {
+        "name": "special-defense",
+        "value": 55
+      },
+      {
+        "name": "speed",
+        "value": 56
+      }
+    ],
+    "abilities": [
+      {
+        "name": "poison-point",
+        "is_hidden": false
+      },
+      {
+        "name": "rivalry",
+        "is_hidden": false
+      },
+      {
+        "name": "hustle",
+        "is_hidden": true
+      }
     ],
     "height": 80,
     "weight": 20000,
@@ -529,6 +1637,46 @@
       "poison",
       "ground"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 90
+      },
+      {
+        "name": "attack",
+        "value": 92
+      },
+      {
+        "name": "defense",
+        "value": 87
+      },
+      {
+        "name": "special-attack",
+        "value": 75
+      },
+      {
+        "name": "special-defense",
+        "value": 85
+      },
+      {
+        "name": "speed",
+        "value": 76
+      }
+    ],
+    "abilities": [
+      {
+        "name": "poison-point",
+        "is_hidden": false
+      },
+      {
+        "name": "rivalry",
+        "is_hidden": false
+      },
+      {
+        "name": "sheer-force",
+        "is_hidden": true
+      }
+    ],
     "height": 130,
     "weight": 60000,
     "is_baby": false,
@@ -546,6 +1694,46 @@
     "types": [
       "poison"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 46
+      },
+      {
+        "name": "attack",
+        "value": 57
+      },
+      {
+        "name": "defense",
+        "value": 40
+      },
+      {
+        "name": "special-attack",
+        "value": 40
+      },
+      {
+        "name": "special-defense",
+        "value": 40
+      },
+      {
+        "name": "speed",
+        "value": 50
+      }
+    ],
+    "abilities": [
+      {
+        "name": "poison-point",
+        "is_hidden": false
+      },
+      {
+        "name": "rivalry",
+        "is_hidden": false
+      },
+      {
+        "name": "hustle",
+        "is_hidden": true
+      }
+    ],
     "height": 50,
     "weight": 9000,
     "is_baby": false,
@@ -562,6 +1750,46 @@
     "generation": 1,
     "types": [
       "poison"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 61
+      },
+      {
+        "name": "attack",
+        "value": 72
+      },
+      {
+        "name": "defense",
+        "value": 57
+      },
+      {
+        "name": "special-attack",
+        "value": 55
+      },
+      {
+        "name": "special-defense",
+        "value": 55
+      },
+      {
+        "name": "speed",
+        "value": 65
+      }
+    ],
+    "abilities": [
+      {
+        "name": "poison-point",
+        "is_hidden": false
+      },
+      {
+        "name": "rivalry",
+        "is_hidden": false
+      },
+      {
+        "name": "hustle",
+        "is_hidden": true
+      }
     ],
     "height": 90,
     "weight": 19500,
@@ -581,6 +1809,46 @@
       "poison",
       "ground"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 81
+      },
+      {
+        "name": "attack",
+        "value": 102
+      },
+      {
+        "name": "defense",
+        "value": 77
+      },
+      {
+        "name": "special-attack",
+        "value": 85
+      },
+      {
+        "name": "special-defense",
+        "value": 75
+      },
+      {
+        "name": "speed",
+        "value": 85
+      }
+    ],
+    "abilities": [
+      {
+        "name": "poison-point",
+        "is_hidden": false
+      },
+      {
+        "name": "rivalry",
+        "is_hidden": false
+      },
+      {
+        "name": "sheer-force",
+        "is_hidden": true
+      }
+    ],
     "height": 140,
     "weight": 62000,
     "is_baby": false,
@@ -597,6 +1865,46 @@
     "generation": 1,
     "types": [
       "fairy"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 70
+      },
+      {
+        "name": "attack",
+        "value": 45
+      },
+      {
+        "name": "defense",
+        "value": 48
+      },
+      {
+        "name": "special-attack",
+        "value": 60
+      },
+      {
+        "name": "special-defense",
+        "value": 65
+      },
+      {
+        "name": "speed",
+        "value": 35
+      }
+    ],
+    "abilities": [
+      {
+        "name": "cute-charm",
+        "is_hidden": false
+      },
+      {
+        "name": "magic-guard",
+        "is_hidden": false
+      },
+      {
+        "name": "friend-guard",
+        "is_hidden": true
+      }
     ],
     "height": 60,
     "weight": 7500,
@@ -615,6 +1923,46 @@
     "types": [
       "fairy"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 95
+      },
+      {
+        "name": "attack",
+        "value": 70
+      },
+      {
+        "name": "defense",
+        "value": 73
+      },
+      {
+        "name": "special-attack",
+        "value": 95
+      },
+      {
+        "name": "special-defense",
+        "value": 90
+      },
+      {
+        "name": "speed",
+        "value": 60
+      }
+    ],
+    "abilities": [
+      {
+        "name": "cute-charm",
+        "is_hidden": false
+      },
+      {
+        "name": "magic-guard",
+        "is_hidden": false
+      },
+      {
+        "name": "unaware",
+        "is_hidden": true
+      }
+    ],
     "height": 130,
     "weight": 40000,
     "is_baby": false,
@@ -632,6 +1980,42 @@
     "types": [
       "fire"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 38
+      },
+      {
+        "name": "attack",
+        "value": 41
+      },
+      {
+        "name": "defense",
+        "value": 40
+      },
+      {
+        "name": "special-attack",
+        "value": 50
+      },
+      {
+        "name": "special-defense",
+        "value": 65
+      },
+      {
+        "name": "speed",
+        "value": 65
+      }
+    ],
+    "abilities": [
+      {
+        "name": "flash-fire",
+        "is_hidden": false
+      },
+      {
+        "name": "drought",
+        "is_hidden": true
+      }
+    ],
     "height": 60,
     "weight": 9900,
     "is_baby": false,
@@ -648,6 +2032,42 @@
     "generation": 1,
     "types": [
       "fire"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 73
+      },
+      {
+        "name": "attack",
+        "value": 76
+      },
+      {
+        "name": "defense",
+        "value": 75
+      },
+      {
+        "name": "special-attack",
+        "value": 81
+      },
+      {
+        "name": "special-defense",
+        "value": 100
+      },
+      {
+        "name": "speed",
+        "value": 100
+      }
+    ],
+    "abilities": [
+      {
+        "name": "flash-fire",
+        "is_hidden": false
+      },
+      {
+        "name": "drought",
+        "is_hidden": true
+      }
     ],
     "height": 110,
     "weight": 19900,
@@ -667,6 +2087,46 @@
       "normal",
       "fairy"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 115
+      },
+      {
+        "name": "attack",
+        "value": 45
+      },
+      {
+        "name": "defense",
+        "value": 20
+      },
+      {
+        "name": "special-attack",
+        "value": 45
+      },
+      {
+        "name": "special-defense",
+        "value": 25
+      },
+      {
+        "name": "speed",
+        "value": 20
+      }
+    ],
+    "abilities": [
+      {
+        "name": "cute-charm",
+        "is_hidden": false
+      },
+      {
+        "name": "competitive",
+        "is_hidden": false
+      },
+      {
+        "name": "friend-guard",
+        "is_hidden": true
+      }
+    ],
     "height": 50,
     "weight": 5500,
     "is_baby": false,
@@ -684,6 +2144,46 @@
     "types": [
       "normal",
       "fairy"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 140
+      },
+      {
+        "name": "attack",
+        "value": 70
+      },
+      {
+        "name": "defense",
+        "value": 45
+      },
+      {
+        "name": "special-attack",
+        "value": 85
+      },
+      {
+        "name": "special-defense",
+        "value": 50
+      },
+      {
+        "name": "speed",
+        "value": 45
+      }
+    ],
+    "abilities": [
+      {
+        "name": "cute-charm",
+        "is_hidden": false
+      },
+      {
+        "name": "competitive",
+        "is_hidden": false
+      },
+      {
+        "name": "frisk",
+        "is_hidden": true
+      }
     ],
     "height": 100,
     "weight": 12000,
@@ -703,6 +2203,42 @@
       "poison",
       "flying"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 40
+      },
+      {
+        "name": "attack",
+        "value": 45
+      },
+      {
+        "name": "defense",
+        "value": 35
+      },
+      {
+        "name": "special-attack",
+        "value": 30
+      },
+      {
+        "name": "special-defense",
+        "value": 40
+      },
+      {
+        "name": "speed",
+        "value": 55
+      }
+    ],
+    "abilities": [
+      {
+        "name": "inner-focus",
+        "is_hidden": false
+      },
+      {
+        "name": "infiltrator",
+        "is_hidden": true
+      }
+    ],
     "height": 80,
     "weight": 7500,
     "is_baby": false,
@@ -720,6 +2256,42 @@
     "types": [
       "poison",
       "flying"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 75
+      },
+      {
+        "name": "attack",
+        "value": 80
+      },
+      {
+        "name": "defense",
+        "value": 70
+      },
+      {
+        "name": "special-attack",
+        "value": 65
+      },
+      {
+        "name": "special-defense",
+        "value": 75
+      },
+      {
+        "name": "speed",
+        "value": 90
+      }
+    ],
+    "abilities": [
+      {
+        "name": "inner-focus",
+        "is_hidden": false
+      },
+      {
+        "name": "infiltrator",
+        "is_hidden": true
+      }
     ],
     "height": 160,
     "weight": 55000,
@@ -739,6 +2311,42 @@
       "grass",
       "poison"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 45
+      },
+      {
+        "name": "attack",
+        "value": 50
+      },
+      {
+        "name": "defense",
+        "value": 55
+      },
+      {
+        "name": "special-attack",
+        "value": 75
+      },
+      {
+        "name": "special-defense",
+        "value": 65
+      },
+      {
+        "name": "speed",
+        "value": 30
+      }
+    ],
+    "abilities": [
+      {
+        "name": "chlorophyll",
+        "is_hidden": false
+      },
+      {
+        "name": "run-away",
+        "is_hidden": true
+      }
+    ],
     "height": 50,
     "weight": 5400,
     "is_baby": false,
@@ -756,6 +2364,42 @@
     "types": [
       "grass",
       "poison"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 60
+      },
+      {
+        "name": "attack",
+        "value": 65
+      },
+      {
+        "name": "defense",
+        "value": 70
+      },
+      {
+        "name": "special-attack",
+        "value": 85
+      },
+      {
+        "name": "special-defense",
+        "value": 75
+      },
+      {
+        "name": "speed",
+        "value": 40
+      }
+    ],
+    "abilities": [
+      {
+        "name": "chlorophyll",
+        "is_hidden": false
+      },
+      {
+        "name": "stench",
+        "is_hidden": true
+      }
     ],
     "height": 80,
     "weight": 8600,
@@ -775,6 +2419,42 @@
       "grass",
       "poison"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 75
+      },
+      {
+        "name": "attack",
+        "value": 80
+      },
+      {
+        "name": "defense",
+        "value": 85
+      },
+      {
+        "name": "special-attack",
+        "value": 110
+      },
+      {
+        "name": "special-defense",
+        "value": 90
+      },
+      {
+        "name": "speed",
+        "value": 50
+      }
+    ],
+    "abilities": [
+      {
+        "name": "chlorophyll",
+        "is_hidden": false
+      },
+      {
+        "name": "effect-spore",
+        "is_hidden": true
+      }
+    ],
     "height": 120,
     "weight": 18600,
     "is_baby": false,
@@ -792,6 +2472,46 @@
     "types": [
       "bug",
       "grass"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 35
+      },
+      {
+        "name": "attack",
+        "value": 70
+      },
+      {
+        "name": "defense",
+        "value": 55
+      },
+      {
+        "name": "special-attack",
+        "value": 45
+      },
+      {
+        "name": "special-defense",
+        "value": 55
+      },
+      {
+        "name": "speed",
+        "value": 25
+      }
+    ],
+    "abilities": [
+      {
+        "name": "effect-spore",
+        "is_hidden": false
+      },
+      {
+        "name": "dry-skin",
+        "is_hidden": false
+      },
+      {
+        "name": "damp",
+        "is_hidden": true
+      }
     ],
     "height": 30,
     "weight": 5400,
@@ -811,6 +2531,46 @@
       "bug",
       "grass"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 60
+      },
+      {
+        "name": "attack",
+        "value": 95
+      },
+      {
+        "name": "defense",
+        "value": 80
+      },
+      {
+        "name": "special-attack",
+        "value": 60
+      },
+      {
+        "name": "special-defense",
+        "value": 80
+      },
+      {
+        "name": "speed",
+        "value": 30
+      }
+    ],
+    "abilities": [
+      {
+        "name": "effect-spore",
+        "is_hidden": false
+      },
+      {
+        "name": "dry-skin",
+        "is_hidden": false
+      },
+      {
+        "name": "damp",
+        "is_hidden": true
+      }
+    ],
     "height": 100,
     "weight": 29500,
     "is_baby": false,
@@ -828,6 +2588,46 @@
     "types": [
       "bug",
       "poison"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 60
+      },
+      {
+        "name": "attack",
+        "value": 55
+      },
+      {
+        "name": "defense",
+        "value": 50
+      },
+      {
+        "name": "special-attack",
+        "value": 40
+      },
+      {
+        "name": "special-defense",
+        "value": 55
+      },
+      {
+        "name": "speed",
+        "value": 45
+      }
+    ],
+    "abilities": [
+      {
+        "name": "compound-eyes",
+        "is_hidden": false
+      },
+      {
+        "name": "tinted-lens",
+        "is_hidden": false
+      },
+      {
+        "name": "run-away",
+        "is_hidden": true
+      }
     ],
     "height": 100,
     "weight": 30000,
@@ -847,6 +2647,46 @@
       "bug",
       "poison"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 70
+      },
+      {
+        "name": "attack",
+        "value": 65
+      },
+      {
+        "name": "defense",
+        "value": 60
+      },
+      {
+        "name": "special-attack",
+        "value": 90
+      },
+      {
+        "name": "special-defense",
+        "value": 75
+      },
+      {
+        "name": "speed",
+        "value": 90
+      }
+    ],
+    "abilities": [
+      {
+        "name": "shield-dust",
+        "is_hidden": false
+      },
+      {
+        "name": "tinted-lens",
+        "is_hidden": false
+      },
+      {
+        "name": "wonder-skin",
+        "is_hidden": true
+      }
+    ],
     "height": 150,
     "weight": 12500,
     "is_baby": false,
@@ -863,6 +2703,46 @@
     "generation": 1,
     "types": [
       "ground"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 10
+      },
+      {
+        "name": "attack",
+        "value": 55
+      },
+      {
+        "name": "defense",
+        "value": 25
+      },
+      {
+        "name": "special-attack",
+        "value": 35
+      },
+      {
+        "name": "special-defense",
+        "value": 45
+      },
+      {
+        "name": "speed",
+        "value": 95
+      }
+    ],
+    "abilities": [
+      {
+        "name": "sand-veil",
+        "is_hidden": false
+      },
+      {
+        "name": "arena-trap",
+        "is_hidden": false
+      },
+      {
+        "name": "sand-force",
+        "is_hidden": true
+      }
     ],
     "height": 20,
     "weight": 800,
@@ -881,6 +2761,46 @@
     "types": [
       "ground"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 35
+      },
+      {
+        "name": "attack",
+        "value": 100
+      },
+      {
+        "name": "defense",
+        "value": 50
+      },
+      {
+        "name": "special-attack",
+        "value": 50
+      },
+      {
+        "name": "special-defense",
+        "value": 70
+      },
+      {
+        "name": "speed",
+        "value": 120
+      }
+    ],
+    "abilities": [
+      {
+        "name": "sand-veil",
+        "is_hidden": false
+      },
+      {
+        "name": "arena-trap",
+        "is_hidden": false
+      },
+      {
+        "name": "sand-force",
+        "is_hidden": true
+      }
+    ],
     "height": 70,
     "weight": 33300,
     "is_baby": false,
@@ -897,6 +2817,46 @@
     "generation": 1,
     "types": [
       "normal"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 40
+      },
+      {
+        "name": "attack",
+        "value": 45
+      },
+      {
+        "name": "defense",
+        "value": 35
+      },
+      {
+        "name": "special-attack",
+        "value": 40
+      },
+      {
+        "name": "special-defense",
+        "value": 40
+      },
+      {
+        "name": "speed",
+        "value": 90
+      }
+    ],
+    "abilities": [
+      {
+        "name": "pickup",
+        "is_hidden": false
+      },
+      {
+        "name": "technician",
+        "is_hidden": false
+      },
+      {
+        "name": "unnerve",
+        "is_hidden": true
+      }
     ],
     "height": 40,
     "weight": 4200,
@@ -915,6 +2875,46 @@
     "types": [
       "normal"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 65
+      },
+      {
+        "name": "attack",
+        "value": 70
+      },
+      {
+        "name": "defense",
+        "value": 60
+      },
+      {
+        "name": "special-attack",
+        "value": 65
+      },
+      {
+        "name": "special-defense",
+        "value": 65
+      },
+      {
+        "name": "speed",
+        "value": 115
+      }
+    ],
+    "abilities": [
+      {
+        "name": "limber",
+        "is_hidden": false
+      },
+      {
+        "name": "technician",
+        "is_hidden": false
+      },
+      {
+        "name": "unnerve",
+        "is_hidden": true
+      }
+    ],
     "height": 100,
     "weight": 32000,
     "is_baby": false,
@@ -931,6 +2931,46 @@
     "generation": 1,
     "types": [
       "water"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 50
+      },
+      {
+        "name": "attack",
+        "value": 52
+      },
+      {
+        "name": "defense",
+        "value": 48
+      },
+      {
+        "name": "special-attack",
+        "value": 65
+      },
+      {
+        "name": "special-defense",
+        "value": 50
+      },
+      {
+        "name": "speed",
+        "value": 55
+      }
+    ],
+    "abilities": [
+      {
+        "name": "damp",
+        "is_hidden": false
+      },
+      {
+        "name": "cloud-nine",
+        "is_hidden": false
+      },
+      {
+        "name": "swift-swim",
+        "is_hidden": true
+      }
     ],
     "height": 80,
     "weight": 19600,
@@ -949,6 +2989,46 @@
     "types": [
       "water"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 80
+      },
+      {
+        "name": "attack",
+        "value": 82
+      },
+      {
+        "name": "defense",
+        "value": 78
+      },
+      {
+        "name": "special-attack",
+        "value": 95
+      },
+      {
+        "name": "special-defense",
+        "value": 80
+      },
+      {
+        "name": "speed",
+        "value": 85
+      }
+    ],
+    "abilities": [
+      {
+        "name": "damp",
+        "is_hidden": false
+      },
+      {
+        "name": "cloud-nine",
+        "is_hidden": false
+      },
+      {
+        "name": "swift-swim",
+        "is_hidden": true
+      }
+    ],
     "height": 170,
     "weight": 76600,
     "is_baby": false,
@@ -965,6 +3045,46 @@
     "generation": 1,
     "types": [
       "fighting"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 40
+      },
+      {
+        "name": "attack",
+        "value": 80
+      },
+      {
+        "name": "defense",
+        "value": 35
+      },
+      {
+        "name": "special-attack",
+        "value": 35
+      },
+      {
+        "name": "special-defense",
+        "value": 45
+      },
+      {
+        "name": "speed",
+        "value": 70
+      }
+    ],
+    "abilities": [
+      {
+        "name": "vital-spirit",
+        "is_hidden": false
+      },
+      {
+        "name": "anger-point",
+        "is_hidden": false
+      },
+      {
+        "name": "defiant",
+        "is_hidden": true
+      }
     ],
     "height": 50,
     "weight": 28000,
@@ -983,6 +3103,46 @@
     "types": [
       "fighting"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 65
+      },
+      {
+        "name": "attack",
+        "value": 105
+      },
+      {
+        "name": "defense",
+        "value": 60
+      },
+      {
+        "name": "special-attack",
+        "value": 60
+      },
+      {
+        "name": "special-defense",
+        "value": 70
+      },
+      {
+        "name": "speed",
+        "value": 95
+      }
+    ],
+    "abilities": [
+      {
+        "name": "vital-spirit",
+        "is_hidden": false
+      },
+      {
+        "name": "anger-point",
+        "is_hidden": false
+      },
+      {
+        "name": "defiant",
+        "is_hidden": true
+      }
+    ],
     "height": 100,
     "weight": 32000,
     "is_baby": false,
@@ -999,6 +3159,46 @@
     "generation": 1,
     "types": [
       "fire"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 55
+      },
+      {
+        "name": "attack",
+        "value": 70
+      },
+      {
+        "name": "defense",
+        "value": 45
+      },
+      {
+        "name": "special-attack",
+        "value": 70
+      },
+      {
+        "name": "special-defense",
+        "value": 50
+      },
+      {
+        "name": "speed",
+        "value": 60
+      }
+    ],
+    "abilities": [
+      {
+        "name": "intimidate",
+        "is_hidden": false
+      },
+      {
+        "name": "flash-fire",
+        "is_hidden": false
+      },
+      {
+        "name": "justified",
+        "is_hidden": true
+      }
     ],
     "height": 70,
     "weight": 19000,
@@ -1017,6 +3217,46 @@
     "types": [
       "fire"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 90
+      },
+      {
+        "name": "attack",
+        "value": 110
+      },
+      {
+        "name": "defense",
+        "value": 80
+      },
+      {
+        "name": "special-attack",
+        "value": 100
+      },
+      {
+        "name": "special-defense",
+        "value": 80
+      },
+      {
+        "name": "speed",
+        "value": 95
+      }
+    ],
+    "abilities": [
+      {
+        "name": "intimidate",
+        "is_hidden": false
+      },
+      {
+        "name": "flash-fire",
+        "is_hidden": false
+      },
+      {
+        "name": "justified",
+        "is_hidden": true
+      }
+    ],
     "height": 190,
     "weight": 155000,
     "is_baby": false,
@@ -1034,6 +3274,46 @@
     "types": [
       "water"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 40
+      },
+      {
+        "name": "attack",
+        "value": 50
+      },
+      {
+        "name": "defense",
+        "value": 40
+      },
+      {
+        "name": "special-attack",
+        "value": 40
+      },
+      {
+        "name": "special-defense",
+        "value": 40
+      },
+      {
+        "name": "speed",
+        "value": 90
+      }
+    ],
+    "abilities": [
+      {
+        "name": "water-absorb",
+        "is_hidden": false
+      },
+      {
+        "name": "damp",
+        "is_hidden": false
+      },
+      {
+        "name": "swift-swim",
+        "is_hidden": true
+      }
+    ],
     "height": 60,
     "weight": 12400,
     "is_baby": false,
@@ -1050,6 +3330,46 @@
     "generation": 1,
     "types": [
       "water"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 65
+      },
+      {
+        "name": "attack",
+        "value": 65
+      },
+      {
+        "name": "defense",
+        "value": 65
+      },
+      {
+        "name": "special-attack",
+        "value": 50
+      },
+      {
+        "name": "special-defense",
+        "value": 50
+      },
+      {
+        "name": "speed",
+        "value": 90
+      }
+    ],
+    "abilities": [
+      {
+        "name": "water-absorb",
+        "is_hidden": false
+      },
+      {
+        "name": "damp",
+        "is_hidden": false
+      },
+      {
+        "name": "swift-swim",
+        "is_hidden": true
+      }
     ],
     "height": 100,
     "weight": 20000,
@@ -1069,6 +3389,46 @@
       "water",
       "fighting"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 90
+      },
+      {
+        "name": "attack",
+        "value": 95
+      },
+      {
+        "name": "defense",
+        "value": 95
+      },
+      {
+        "name": "special-attack",
+        "value": 70
+      },
+      {
+        "name": "special-defense",
+        "value": 90
+      },
+      {
+        "name": "speed",
+        "value": 70
+      }
+    ],
+    "abilities": [
+      {
+        "name": "water-absorb",
+        "is_hidden": false
+      },
+      {
+        "name": "damp",
+        "is_hidden": false
+      },
+      {
+        "name": "swift-swim",
+        "is_hidden": true
+      }
+    ],
     "height": 130,
     "weight": 54000,
     "is_baby": false,
@@ -1085,6 +3445,46 @@
     "generation": 1,
     "types": [
       "psychic"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 25
+      },
+      {
+        "name": "attack",
+        "value": 20
+      },
+      {
+        "name": "defense",
+        "value": 15
+      },
+      {
+        "name": "special-attack",
+        "value": 105
+      },
+      {
+        "name": "special-defense",
+        "value": 55
+      },
+      {
+        "name": "speed",
+        "value": 90
+      }
+    ],
+    "abilities": [
+      {
+        "name": "synchronize",
+        "is_hidden": false
+      },
+      {
+        "name": "inner-focus",
+        "is_hidden": false
+      },
+      {
+        "name": "magic-guard",
+        "is_hidden": true
+      }
     ],
     "height": 90,
     "weight": 19500,
@@ -1103,6 +3503,46 @@
     "types": [
       "psychic"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 40
+      },
+      {
+        "name": "attack",
+        "value": 35
+      },
+      {
+        "name": "defense",
+        "value": 30
+      },
+      {
+        "name": "special-attack",
+        "value": 120
+      },
+      {
+        "name": "special-defense",
+        "value": 70
+      },
+      {
+        "name": "speed",
+        "value": 105
+      }
+    ],
+    "abilities": [
+      {
+        "name": "synchronize",
+        "is_hidden": false
+      },
+      {
+        "name": "inner-focus",
+        "is_hidden": false
+      },
+      {
+        "name": "magic-guard",
+        "is_hidden": true
+      }
+    ],
     "height": 130,
     "weight": 56500,
     "is_baby": false,
@@ -1119,6 +3559,46 @@
     "generation": 1,
     "types": [
       "psychic"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 55
+      },
+      {
+        "name": "attack",
+        "value": 50
+      },
+      {
+        "name": "defense",
+        "value": 45
+      },
+      {
+        "name": "special-attack",
+        "value": 135
+      },
+      {
+        "name": "special-defense",
+        "value": 95
+      },
+      {
+        "name": "speed",
+        "value": 120
+      }
+    ],
+    "abilities": [
+      {
+        "name": "synchronize",
+        "is_hidden": false
+      },
+      {
+        "name": "inner-focus",
+        "is_hidden": false
+      },
+      {
+        "name": "magic-guard",
+        "is_hidden": true
+      }
     ],
     "height": 150,
     "weight": 48000,
@@ -1137,6 +3617,46 @@
     "types": [
       "fighting"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 70
+      },
+      {
+        "name": "attack",
+        "value": 80
+      },
+      {
+        "name": "defense",
+        "value": 50
+      },
+      {
+        "name": "special-attack",
+        "value": 35
+      },
+      {
+        "name": "special-defense",
+        "value": 35
+      },
+      {
+        "name": "speed",
+        "value": 35
+      }
+    ],
+    "abilities": [
+      {
+        "name": "guts",
+        "is_hidden": false
+      },
+      {
+        "name": "no-guard",
+        "is_hidden": false
+      },
+      {
+        "name": "steadfast",
+        "is_hidden": true
+      }
+    ],
     "height": 80,
     "weight": 19500,
     "is_baby": false,
@@ -1154,6 +3674,46 @@
     "types": [
       "fighting"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 80
+      },
+      {
+        "name": "attack",
+        "value": 100
+      },
+      {
+        "name": "defense",
+        "value": 70
+      },
+      {
+        "name": "special-attack",
+        "value": 50
+      },
+      {
+        "name": "special-defense",
+        "value": 60
+      },
+      {
+        "name": "speed",
+        "value": 45
+      }
+    ],
+    "abilities": [
+      {
+        "name": "guts",
+        "is_hidden": false
+      },
+      {
+        "name": "no-guard",
+        "is_hidden": false
+      },
+      {
+        "name": "steadfast",
+        "is_hidden": true
+      }
+    ],
     "height": 150,
     "weight": 70500,
     "is_baby": false,
@@ -1170,6 +3730,46 @@
     "generation": 1,
     "types": [
       "fighting"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 90
+      },
+      {
+        "name": "attack",
+        "value": 130
+      },
+      {
+        "name": "defense",
+        "value": 80
+      },
+      {
+        "name": "special-attack",
+        "value": 65
+      },
+      {
+        "name": "special-defense",
+        "value": 85
+      },
+      {
+        "name": "speed",
+        "value": 55
+      }
+    ],
+    "abilities": [
+      {
+        "name": "guts",
+        "is_hidden": false
+      },
+      {
+        "name": "no-guard",
+        "is_hidden": false
+      },
+      {
+        "name": "steadfast",
+        "is_hidden": true
+      }
     ],
     "height": 160,
     "weight": 130000,
@@ -1189,6 +3789,42 @@
       "grass",
       "poison"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 50
+      },
+      {
+        "name": "attack",
+        "value": 75
+      },
+      {
+        "name": "defense",
+        "value": 35
+      },
+      {
+        "name": "special-attack",
+        "value": 70
+      },
+      {
+        "name": "special-defense",
+        "value": 30
+      },
+      {
+        "name": "speed",
+        "value": 40
+      }
+    ],
+    "abilities": [
+      {
+        "name": "chlorophyll",
+        "is_hidden": false
+      },
+      {
+        "name": "gluttony",
+        "is_hidden": true
+      }
+    ],
     "height": 70,
     "weight": 4000,
     "is_baby": false,
@@ -1206,6 +3842,42 @@
     "types": [
       "grass",
       "poison"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 65
+      },
+      {
+        "name": "attack",
+        "value": 90
+      },
+      {
+        "name": "defense",
+        "value": 50
+      },
+      {
+        "name": "special-attack",
+        "value": 85
+      },
+      {
+        "name": "special-defense",
+        "value": 45
+      },
+      {
+        "name": "speed",
+        "value": 55
+      }
+    ],
+    "abilities": [
+      {
+        "name": "chlorophyll",
+        "is_hidden": false
+      },
+      {
+        "name": "gluttony",
+        "is_hidden": true
+      }
     ],
     "height": 100,
     "weight": 6400,
@@ -1225,6 +3897,42 @@
       "grass",
       "poison"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 80
+      },
+      {
+        "name": "attack",
+        "value": 105
+      },
+      {
+        "name": "defense",
+        "value": 65
+      },
+      {
+        "name": "special-attack",
+        "value": 100
+      },
+      {
+        "name": "special-defense",
+        "value": 70
+      },
+      {
+        "name": "speed",
+        "value": 70
+      }
+    ],
+    "abilities": [
+      {
+        "name": "chlorophyll",
+        "is_hidden": false
+      },
+      {
+        "name": "gluttony",
+        "is_hidden": true
+      }
+    ],
     "height": 170,
     "weight": 15500,
     "is_baby": false,
@@ -1242,6 +3950,46 @@
     "types": [
       "water",
       "poison"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 40
+      },
+      {
+        "name": "attack",
+        "value": 40
+      },
+      {
+        "name": "defense",
+        "value": 35
+      },
+      {
+        "name": "special-attack",
+        "value": 50
+      },
+      {
+        "name": "special-defense",
+        "value": 100
+      },
+      {
+        "name": "speed",
+        "value": 70
+      }
+    ],
+    "abilities": [
+      {
+        "name": "clear-body",
+        "is_hidden": false
+      },
+      {
+        "name": "liquid-ooze",
+        "is_hidden": false
+      },
+      {
+        "name": "rain-dish",
+        "is_hidden": true
+      }
     ],
     "height": 90,
     "weight": 45500,
@@ -1261,6 +4009,46 @@
       "water",
       "poison"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 80
+      },
+      {
+        "name": "attack",
+        "value": 70
+      },
+      {
+        "name": "defense",
+        "value": 65
+      },
+      {
+        "name": "special-attack",
+        "value": 80
+      },
+      {
+        "name": "special-defense",
+        "value": 120
+      },
+      {
+        "name": "speed",
+        "value": 100
+      }
+    ],
+    "abilities": [
+      {
+        "name": "clear-body",
+        "is_hidden": false
+      },
+      {
+        "name": "liquid-ooze",
+        "is_hidden": false
+      },
+      {
+        "name": "rain-dish",
+        "is_hidden": true
+      }
+    ],
     "height": 160,
     "weight": 55000,
     "is_baby": false,
@@ -1278,6 +4066,46 @@
     "types": [
       "rock",
       "ground"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 40
+      },
+      {
+        "name": "attack",
+        "value": 80
+      },
+      {
+        "name": "defense",
+        "value": 100
+      },
+      {
+        "name": "special-attack",
+        "value": 30
+      },
+      {
+        "name": "special-defense",
+        "value": 30
+      },
+      {
+        "name": "speed",
+        "value": 20
+      }
+    ],
+    "abilities": [
+      {
+        "name": "rock-head",
+        "is_hidden": false
+      },
+      {
+        "name": "sturdy",
+        "is_hidden": false
+      },
+      {
+        "name": "sand-veil",
+        "is_hidden": true
+      }
     ],
     "height": 40,
     "weight": 20000,
@@ -1297,6 +4125,46 @@
       "rock",
       "ground"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 55
+      },
+      {
+        "name": "attack",
+        "value": 95
+      },
+      {
+        "name": "defense",
+        "value": 115
+      },
+      {
+        "name": "special-attack",
+        "value": 45
+      },
+      {
+        "name": "special-defense",
+        "value": 45
+      },
+      {
+        "name": "speed",
+        "value": 35
+      }
+    ],
+    "abilities": [
+      {
+        "name": "rock-head",
+        "is_hidden": false
+      },
+      {
+        "name": "sturdy",
+        "is_hidden": false
+      },
+      {
+        "name": "sand-veil",
+        "is_hidden": true
+      }
+    ],
     "height": 100,
     "weight": 105000,
     "is_baby": false,
@@ -1315,6 +4183,46 @@
       "rock",
       "ground"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 80
+      },
+      {
+        "name": "attack",
+        "value": 120
+      },
+      {
+        "name": "defense",
+        "value": 130
+      },
+      {
+        "name": "special-attack",
+        "value": 55
+      },
+      {
+        "name": "special-defense",
+        "value": 65
+      },
+      {
+        "name": "speed",
+        "value": 45
+      }
+    ],
+    "abilities": [
+      {
+        "name": "rock-head",
+        "is_hidden": false
+      },
+      {
+        "name": "sturdy",
+        "is_hidden": false
+      },
+      {
+        "name": "sand-veil",
+        "is_hidden": true
+      }
+    ],
     "height": 140,
     "weight": 300000,
     "is_baby": false,
@@ -1332,6 +4240,46 @@
     "types": [
       "fire"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 50
+      },
+      {
+        "name": "attack",
+        "value": 85
+      },
+      {
+        "name": "defense",
+        "value": 55
+      },
+      {
+        "name": "special-attack",
+        "value": 65
+      },
+      {
+        "name": "special-defense",
+        "value": 65
+      },
+      {
+        "name": "speed",
+        "value": 90
+      }
+    ],
+    "abilities": [
+      {
+        "name": "run-away",
+        "is_hidden": false
+      },
+      {
+        "name": "flash-fire",
+        "is_hidden": false
+      },
+      {
+        "name": "flame-body",
+        "is_hidden": true
+      }
+    ],
     "height": 100,
     "weight": 30000,
     "is_baby": false,
@@ -1348,6 +4296,46 @@
     "generation": 1,
     "types": [
       "fire"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 65
+      },
+      {
+        "name": "attack",
+        "value": 100
+      },
+      {
+        "name": "defense",
+        "value": 70
+      },
+      {
+        "name": "special-attack",
+        "value": 80
+      },
+      {
+        "name": "special-defense",
+        "value": 80
+      },
+      {
+        "name": "speed",
+        "value": 105
+      }
+    ],
+    "abilities": [
+      {
+        "name": "run-away",
+        "is_hidden": false
+      },
+      {
+        "name": "flash-fire",
+        "is_hidden": false
+      },
+      {
+        "name": "flame-body",
+        "is_hidden": true
+      }
     ],
     "height": 170,
     "weight": 95000,
@@ -1367,6 +4355,46 @@
       "water",
       "psychic"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 90
+      },
+      {
+        "name": "attack",
+        "value": 65
+      },
+      {
+        "name": "defense",
+        "value": 65
+      },
+      {
+        "name": "special-attack",
+        "value": 40
+      },
+      {
+        "name": "special-defense",
+        "value": 40
+      },
+      {
+        "name": "speed",
+        "value": 15
+      }
+    ],
+    "abilities": [
+      {
+        "name": "oblivious",
+        "is_hidden": false
+      },
+      {
+        "name": "own-tempo",
+        "is_hidden": false
+      },
+      {
+        "name": "regenerator",
+        "is_hidden": true
+      }
+    ],
     "height": 120,
     "weight": 36000,
     "is_baby": false,
@@ -1384,6 +4412,46 @@
     "types": [
       "water",
       "psychic"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 95
+      },
+      {
+        "name": "attack",
+        "value": 75
+      },
+      {
+        "name": "defense",
+        "value": 110
+      },
+      {
+        "name": "special-attack",
+        "value": 100
+      },
+      {
+        "name": "special-defense",
+        "value": 80
+      },
+      {
+        "name": "speed",
+        "value": 30
+      }
+    ],
+    "abilities": [
+      {
+        "name": "oblivious",
+        "is_hidden": false
+      },
+      {
+        "name": "own-tempo",
+        "is_hidden": false
+      },
+      {
+        "name": "regenerator",
+        "is_hidden": true
+      }
     ],
     "height": 160,
     "weight": 78500,
@@ -1403,6 +4471,46 @@
       "electric",
       "steel"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 25
+      },
+      {
+        "name": "attack",
+        "value": 35
+      },
+      {
+        "name": "defense",
+        "value": 70
+      },
+      {
+        "name": "special-attack",
+        "value": 95
+      },
+      {
+        "name": "special-defense",
+        "value": 55
+      },
+      {
+        "name": "speed",
+        "value": 45
+      }
+    ],
+    "abilities": [
+      {
+        "name": "magnet-pull",
+        "is_hidden": false
+      },
+      {
+        "name": "sturdy",
+        "is_hidden": false
+      },
+      {
+        "name": "analytic",
+        "is_hidden": true
+      }
+    ],
     "height": 30,
     "weight": 6000,
     "is_baby": false,
@@ -1420,6 +4528,46 @@
     "types": [
       "electric",
       "steel"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 50
+      },
+      {
+        "name": "attack",
+        "value": 60
+      },
+      {
+        "name": "defense",
+        "value": 95
+      },
+      {
+        "name": "special-attack",
+        "value": 120
+      },
+      {
+        "name": "special-defense",
+        "value": 70
+      },
+      {
+        "name": "speed",
+        "value": 70
+      }
+    ],
+    "abilities": [
+      {
+        "name": "magnet-pull",
+        "is_hidden": false
+      },
+      {
+        "name": "sturdy",
+        "is_hidden": false
+      },
+      {
+        "name": "analytic",
+        "is_hidden": true
+      }
     ],
     "height": 100,
     "weight": 60000,
@@ -1439,6 +4587,46 @@
       "normal",
       "flying"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 52
+      },
+      {
+        "name": "attack",
+        "value": 90
+      },
+      {
+        "name": "defense",
+        "value": 55
+      },
+      {
+        "name": "special-attack",
+        "value": 58
+      },
+      {
+        "name": "special-defense",
+        "value": 62
+      },
+      {
+        "name": "speed",
+        "value": 60
+      }
+    ],
+    "abilities": [
+      {
+        "name": "keen-eye",
+        "is_hidden": false
+      },
+      {
+        "name": "inner-focus",
+        "is_hidden": false
+      },
+      {
+        "name": "defiant",
+        "is_hidden": true
+      }
+    ],
     "height": 80,
     "weight": 15000,
     "is_baby": false,
@@ -1456,6 +4644,46 @@
     "types": [
       "normal",
       "flying"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 35
+      },
+      {
+        "name": "attack",
+        "value": 85
+      },
+      {
+        "name": "defense",
+        "value": 45
+      },
+      {
+        "name": "special-attack",
+        "value": 35
+      },
+      {
+        "name": "special-defense",
+        "value": 35
+      },
+      {
+        "name": "speed",
+        "value": 75
+      }
+    ],
+    "abilities": [
+      {
+        "name": "run-away",
+        "is_hidden": false
+      },
+      {
+        "name": "early-bird",
+        "is_hidden": false
+      },
+      {
+        "name": "tangled-feet",
+        "is_hidden": true
+      }
     ],
     "height": 140,
     "weight": 39200,
@@ -1475,6 +4703,46 @@
       "normal",
       "flying"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 60
+      },
+      {
+        "name": "attack",
+        "value": 110
+      },
+      {
+        "name": "defense",
+        "value": 70
+      },
+      {
+        "name": "special-attack",
+        "value": 60
+      },
+      {
+        "name": "special-defense",
+        "value": 60
+      },
+      {
+        "name": "speed",
+        "value": 110
+      }
+    ],
+    "abilities": [
+      {
+        "name": "run-away",
+        "is_hidden": false
+      },
+      {
+        "name": "early-bird",
+        "is_hidden": false
+      },
+      {
+        "name": "tangled-feet",
+        "is_hidden": true
+      }
+    ],
     "height": 180,
     "weight": 85200,
     "is_baby": false,
@@ -1491,6 +4759,46 @@
     "generation": 1,
     "types": [
       "water"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 65
+      },
+      {
+        "name": "attack",
+        "value": 45
+      },
+      {
+        "name": "defense",
+        "value": 55
+      },
+      {
+        "name": "special-attack",
+        "value": 45
+      },
+      {
+        "name": "special-defense",
+        "value": 70
+      },
+      {
+        "name": "speed",
+        "value": 45
+      }
+    ],
+    "abilities": [
+      {
+        "name": "thick-fat",
+        "is_hidden": false
+      },
+      {
+        "name": "hydration",
+        "is_hidden": false
+      },
+      {
+        "name": "ice-body",
+        "is_hidden": true
+      }
     ],
     "height": 110,
     "weight": 90000,
@@ -1510,6 +4818,46 @@
       "water",
       "ice"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 90
+      },
+      {
+        "name": "attack",
+        "value": 70
+      },
+      {
+        "name": "defense",
+        "value": 80
+      },
+      {
+        "name": "special-attack",
+        "value": 70
+      },
+      {
+        "name": "special-defense",
+        "value": 95
+      },
+      {
+        "name": "speed",
+        "value": 70
+      }
+    ],
+    "abilities": [
+      {
+        "name": "thick-fat",
+        "is_hidden": false
+      },
+      {
+        "name": "hydration",
+        "is_hidden": false
+      },
+      {
+        "name": "ice-body",
+        "is_hidden": true
+      }
+    ],
     "height": 170,
     "weight": 120000,
     "is_baby": false,
@@ -1526,6 +4874,46 @@
     "generation": 1,
     "types": [
       "poison"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 80
+      },
+      {
+        "name": "attack",
+        "value": 80
+      },
+      {
+        "name": "defense",
+        "value": 50
+      },
+      {
+        "name": "special-attack",
+        "value": 40
+      },
+      {
+        "name": "special-defense",
+        "value": 50
+      },
+      {
+        "name": "speed",
+        "value": 25
+      }
+    ],
+    "abilities": [
+      {
+        "name": "stench",
+        "is_hidden": false
+      },
+      {
+        "name": "sticky-hold",
+        "is_hidden": false
+      },
+      {
+        "name": "poison-touch",
+        "is_hidden": true
+      }
     ],
     "height": 90,
     "weight": 30000,
@@ -1544,6 +4932,46 @@
     "types": [
       "poison"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 105
+      },
+      {
+        "name": "attack",
+        "value": 105
+      },
+      {
+        "name": "defense",
+        "value": 75
+      },
+      {
+        "name": "special-attack",
+        "value": 65
+      },
+      {
+        "name": "special-defense",
+        "value": 100
+      },
+      {
+        "name": "speed",
+        "value": 50
+      }
+    ],
+    "abilities": [
+      {
+        "name": "stench",
+        "is_hidden": false
+      },
+      {
+        "name": "sticky-hold",
+        "is_hidden": false
+      },
+      {
+        "name": "poison-touch",
+        "is_hidden": true
+      }
+    ],
     "height": 120,
     "weight": 30000,
     "is_baby": false,
@@ -1560,6 +4988,46 @@
     "generation": 1,
     "types": [
       "water"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 30
+      },
+      {
+        "name": "attack",
+        "value": 65
+      },
+      {
+        "name": "defense",
+        "value": 100
+      },
+      {
+        "name": "special-attack",
+        "value": 45
+      },
+      {
+        "name": "special-defense",
+        "value": 25
+      },
+      {
+        "name": "speed",
+        "value": 40
+      }
+    ],
+    "abilities": [
+      {
+        "name": "shell-armor",
+        "is_hidden": false
+      },
+      {
+        "name": "skill-link",
+        "is_hidden": false
+      },
+      {
+        "name": "overcoat",
+        "is_hidden": true
+      }
     ],
     "height": 30,
     "weight": 4000,
@@ -1579,6 +5047,46 @@
       "water",
       "ice"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 50
+      },
+      {
+        "name": "attack",
+        "value": 95
+      },
+      {
+        "name": "defense",
+        "value": 180
+      },
+      {
+        "name": "special-attack",
+        "value": 85
+      },
+      {
+        "name": "special-defense",
+        "value": 45
+      },
+      {
+        "name": "speed",
+        "value": 70
+      }
+    ],
+    "abilities": [
+      {
+        "name": "shell-armor",
+        "is_hidden": false
+      },
+      {
+        "name": "skill-link",
+        "is_hidden": false
+      },
+      {
+        "name": "overcoat",
+        "is_hidden": true
+      }
+    ],
     "height": 150,
     "weight": 132500,
     "is_baby": false,
@@ -1596,6 +5104,38 @@
     "types": [
       "ghost",
       "poison"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 30
+      },
+      {
+        "name": "attack",
+        "value": 35
+      },
+      {
+        "name": "defense",
+        "value": 30
+      },
+      {
+        "name": "special-attack",
+        "value": 100
+      },
+      {
+        "name": "special-defense",
+        "value": 35
+      },
+      {
+        "name": "speed",
+        "value": 80
+      }
+    ],
+    "abilities": [
+      {
+        "name": "levitate",
+        "is_hidden": false
+      }
     ],
     "height": 130,
     "weight": 100,
@@ -1615,6 +5155,38 @@
       "ghost",
       "poison"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 45
+      },
+      {
+        "name": "attack",
+        "value": 50
+      },
+      {
+        "name": "defense",
+        "value": 45
+      },
+      {
+        "name": "special-attack",
+        "value": 115
+      },
+      {
+        "name": "special-defense",
+        "value": 55
+      },
+      {
+        "name": "speed",
+        "value": 95
+      }
+    ],
+    "abilities": [
+      {
+        "name": "levitate",
+        "is_hidden": false
+      }
+    ],
     "height": 160,
     "weight": 100,
     "is_baby": false,
@@ -1632,6 +5204,38 @@
     "types": [
       "ghost",
       "poison"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 60
+      },
+      {
+        "name": "attack",
+        "value": 65
+      },
+      {
+        "name": "defense",
+        "value": 60
+      },
+      {
+        "name": "special-attack",
+        "value": 130
+      },
+      {
+        "name": "special-defense",
+        "value": 75
+      },
+      {
+        "name": "speed",
+        "value": 110
+      }
+    ],
+    "abilities": [
+      {
+        "name": "cursed-body",
+        "is_hidden": false
+      }
     ],
     "height": 150,
     "weight": 40500,
@@ -1651,6 +5255,46 @@
       "rock",
       "ground"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 35
+      },
+      {
+        "name": "attack",
+        "value": 45
+      },
+      {
+        "name": "defense",
+        "value": 160
+      },
+      {
+        "name": "special-attack",
+        "value": 30
+      },
+      {
+        "name": "special-defense",
+        "value": 45
+      },
+      {
+        "name": "speed",
+        "value": 70
+      }
+    ],
+    "abilities": [
+      {
+        "name": "rock-head",
+        "is_hidden": false
+      },
+      {
+        "name": "sturdy",
+        "is_hidden": false
+      },
+      {
+        "name": "weak-armor",
+        "is_hidden": true
+      }
+    ],
     "height": 880,
     "weight": 210000,
     "is_baby": false,
@@ -1667,6 +5311,46 @@
     "generation": 1,
     "types": [
       "psychic"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 60
+      },
+      {
+        "name": "attack",
+        "value": 48
+      },
+      {
+        "name": "defense",
+        "value": 45
+      },
+      {
+        "name": "special-attack",
+        "value": 43
+      },
+      {
+        "name": "special-defense",
+        "value": 90
+      },
+      {
+        "name": "speed",
+        "value": 42
+      }
+    ],
+    "abilities": [
+      {
+        "name": "insomnia",
+        "is_hidden": false
+      },
+      {
+        "name": "forewarn",
+        "is_hidden": false
+      },
+      {
+        "name": "inner-focus",
+        "is_hidden": true
+      }
     ],
     "height": 100,
     "weight": 32400,
@@ -1685,6 +5369,46 @@
     "types": [
       "psychic"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 85
+      },
+      {
+        "name": "attack",
+        "value": 73
+      },
+      {
+        "name": "defense",
+        "value": 70
+      },
+      {
+        "name": "special-attack",
+        "value": 73
+      },
+      {
+        "name": "special-defense",
+        "value": 115
+      },
+      {
+        "name": "speed",
+        "value": 67
+      }
+    ],
+    "abilities": [
+      {
+        "name": "insomnia",
+        "is_hidden": false
+      },
+      {
+        "name": "forewarn",
+        "is_hidden": false
+      },
+      {
+        "name": "inner-focus",
+        "is_hidden": true
+      }
+    ],
     "height": 160,
     "weight": 75600,
     "is_baby": false,
@@ -1701,6 +5425,46 @@
     "generation": 1,
     "types": [
       "water"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 30
+      },
+      {
+        "name": "attack",
+        "value": 105
+      },
+      {
+        "name": "defense",
+        "value": 90
+      },
+      {
+        "name": "special-attack",
+        "value": 25
+      },
+      {
+        "name": "special-defense",
+        "value": 25
+      },
+      {
+        "name": "speed",
+        "value": 50
+      }
+    ],
+    "abilities": [
+      {
+        "name": "hyper-cutter",
+        "is_hidden": false
+      },
+      {
+        "name": "shell-armor",
+        "is_hidden": false
+      },
+      {
+        "name": "sheer-force",
+        "is_hidden": true
+      }
     ],
     "height": 40,
     "weight": 6500,
@@ -1719,6 +5483,46 @@
     "types": [
       "water"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 55
+      },
+      {
+        "name": "attack",
+        "value": 130
+      },
+      {
+        "name": "defense",
+        "value": 115
+      },
+      {
+        "name": "special-attack",
+        "value": 50
+      },
+      {
+        "name": "special-defense",
+        "value": 50
+      },
+      {
+        "name": "speed",
+        "value": 75
+      }
+    ],
+    "abilities": [
+      {
+        "name": "hyper-cutter",
+        "is_hidden": false
+      },
+      {
+        "name": "shell-armor",
+        "is_hidden": false
+      },
+      {
+        "name": "sheer-force",
+        "is_hidden": true
+      }
+    ],
     "height": 130,
     "weight": 60000,
     "is_baby": false,
@@ -1736,6 +5540,46 @@
     "types": [
       "electric"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 40
+      },
+      {
+        "name": "attack",
+        "value": 30
+      },
+      {
+        "name": "defense",
+        "value": 50
+      },
+      {
+        "name": "special-attack",
+        "value": 55
+      },
+      {
+        "name": "special-defense",
+        "value": 55
+      },
+      {
+        "name": "speed",
+        "value": 100
+      }
+    ],
+    "abilities": [
+      {
+        "name": "soundproof",
+        "is_hidden": false
+      },
+      {
+        "name": "static",
+        "is_hidden": false
+      },
+      {
+        "name": "aftermath",
+        "is_hidden": true
+      }
+    ],
     "height": 50,
     "weight": 10400,
     "is_baby": false,
@@ -1752,6 +5596,46 @@
     "generation": 1,
     "types": [
       "electric"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 60
+      },
+      {
+        "name": "attack",
+        "value": 50
+      },
+      {
+        "name": "defense",
+        "value": 70
+      },
+      {
+        "name": "special-attack",
+        "value": 80
+      },
+      {
+        "name": "special-defense",
+        "value": 80
+      },
+      {
+        "name": "speed",
+        "value": 150
+      }
+    ],
+    "abilities": [
+      {
+        "name": "soundproof",
+        "is_hidden": false
+      },
+      {
+        "name": "static",
+        "is_hidden": false
+      },
+      {
+        "name": "aftermath",
+        "is_hidden": true
+      }
     ],
     "height": 120,
     "weight": 66600,
@@ -1771,6 +5655,42 @@
       "grass",
       "psychic"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 60
+      },
+      {
+        "name": "attack",
+        "value": 40
+      },
+      {
+        "name": "defense",
+        "value": 80
+      },
+      {
+        "name": "special-attack",
+        "value": 60
+      },
+      {
+        "name": "special-defense",
+        "value": 45
+      },
+      {
+        "name": "speed",
+        "value": 40
+      }
+    ],
+    "abilities": [
+      {
+        "name": "chlorophyll",
+        "is_hidden": false
+      },
+      {
+        "name": "harvest",
+        "is_hidden": true
+      }
+    ],
     "height": 40,
     "weight": 2500,
     "is_baby": false,
@@ -1789,6 +5709,42 @@
       "grass",
       "psychic"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 95
+      },
+      {
+        "name": "attack",
+        "value": 95
+      },
+      {
+        "name": "defense",
+        "value": 85
+      },
+      {
+        "name": "special-attack",
+        "value": 125
+      },
+      {
+        "name": "special-defense",
+        "value": 75
+      },
+      {
+        "name": "speed",
+        "value": 55
+      }
+    ],
+    "abilities": [
+      {
+        "name": "chlorophyll",
+        "is_hidden": false
+      },
+      {
+        "name": "harvest",
+        "is_hidden": true
+      }
+    ],
     "height": 200,
     "weight": 120000,
     "is_baby": false,
@@ -1805,6 +5761,46 @@
     "generation": 1,
     "types": [
       "ground"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 50
+      },
+      {
+        "name": "attack",
+        "value": 50
+      },
+      {
+        "name": "defense",
+        "value": 95
+      },
+      {
+        "name": "special-attack",
+        "value": 40
+      },
+      {
+        "name": "special-defense",
+        "value": 50
+      },
+      {
+        "name": "speed",
+        "value": 35
+      }
+    ],
+    "abilities": [
+      {
+        "name": "rock-head",
+        "is_hidden": false
+      },
+      {
+        "name": "lightning-rod",
+        "is_hidden": false
+      },
+      {
+        "name": "battle-armor",
+        "is_hidden": true
+      }
     ],
     "height": 40,
     "weight": 6500,
@@ -1823,6 +5819,46 @@
     "types": [
       "ground"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 60
+      },
+      {
+        "name": "attack",
+        "value": 80
+      },
+      {
+        "name": "defense",
+        "value": 110
+      },
+      {
+        "name": "special-attack",
+        "value": 50
+      },
+      {
+        "name": "special-defense",
+        "value": 80
+      },
+      {
+        "name": "speed",
+        "value": 45
+      }
+    ],
+    "abilities": [
+      {
+        "name": "rock-head",
+        "is_hidden": false
+      },
+      {
+        "name": "lightning-rod",
+        "is_hidden": false
+      },
+      {
+        "name": "battle-armor",
+        "is_hidden": true
+      }
+    ],
     "height": 100,
     "weight": 45000,
     "is_baby": false,
@@ -1839,6 +5875,46 @@
     "generation": 1,
     "types": [
       "fighting"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 50
+      },
+      {
+        "name": "attack",
+        "value": 120
+      },
+      {
+        "name": "defense",
+        "value": 53
+      },
+      {
+        "name": "special-attack",
+        "value": 35
+      },
+      {
+        "name": "special-defense",
+        "value": 110
+      },
+      {
+        "name": "speed",
+        "value": 87
+      }
+    ],
+    "abilities": [
+      {
+        "name": "limber",
+        "is_hidden": false
+      },
+      {
+        "name": "reckless",
+        "is_hidden": false
+      },
+      {
+        "name": "unburden",
+        "is_hidden": true
+      }
     ],
     "height": 150,
     "weight": 49800,
@@ -1857,6 +5933,46 @@
     "types": [
       "fighting"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 50
+      },
+      {
+        "name": "attack",
+        "value": 105
+      },
+      {
+        "name": "defense",
+        "value": 79
+      },
+      {
+        "name": "special-attack",
+        "value": 35
+      },
+      {
+        "name": "special-defense",
+        "value": 110
+      },
+      {
+        "name": "speed",
+        "value": 76
+      }
+    ],
+    "abilities": [
+      {
+        "name": "keen-eye",
+        "is_hidden": false
+      },
+      {
+        "name": "iron-fist",
+        "is_hidden": false
+      },
+      {
+        "name": "inner-focus",
+        "is_hidden": true
+      }
+    ],
     "height": 140,
     "weight": 50200,
     "is_baby": false,
@@ -1873,6 +5989,46 @@
     "generation": 1,
     "types": [
       "normal"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 90
+      },
+      {
+        "name": "attack",
+        "value": 55
+      },
+      {
+        "name": "defense",
+        "value": 75
+      },
+      {
+        "name": "special-attack",
+        "value": 60
+      },
+      {
+        "name": "special-defense",
+        "value": 75
+      },
+      {
+        "name": "speed",
+        "value": 30
+      }
+    ],
+    "abilities": [
+      {
+        "name": "own-tempo",
+        "is_hidden": false
+      },
+      {
+        "name": "oblivious",
+        "is_hidden": false
+      },
+      {
+        "name": "cloud-nine",
+        "is_hidden": true
+      }
     ],
     "height": 120,
     "weight": 65500,
@@ -1891,6 +6047,46 @@
     "types": [
       "poison"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 40
+      },
+      {
+        "name": "attack",
+        "value": 65
+      },
+      {
+        "name": "defense",
+        "value": 95
+      },
+      {
+        "name": "special-attack",
+        "value": 60
+      },
+      {
+        "name": "special-defense",
+        "value": 45
+      },
+      {
+        "name": "speed",
+        "value": 35
+      }
+    ],
+    "abilities": [
+      {
+        "name": "levitate",
+        "is_hidden": false
+      },
+      {
+        "name": "neutralizing-gas",
+        "is_hidden": false
+      },
+      {
+        "name": "stench",
+        "is_hidden": true
+      }
+    ],
     "height": 60,
     "weight": 1000,
     "is_baby": false,
@@ -1907,6 +6103,46 @@
     "generation": 1,
     "types": [
       "poison"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 65
+      },
+      {
+        "name": "attack",
+        "value": 90
+      },
+      {
+        "name": "defense",
+        "value": 120
+      },
+      {
+        "name": "special-attack",
+        "value": 85
+      },
+      {
+        "name": "special-defense",
+        "value": 70
+      },
+      {
+        "name": "speed",
+        "value": 60
+      }
+    ],
+    "abilities": [
+      {
+        "name": "levitate",
+        "is_hidden": false
+      },
+      {
+        "name": "neutralizing-gas",
+        "is_hidden": false
+      },
+      {
+        "name": "stench",
+        "is_hidden": true
+      }
     ],
     "height": 120,
     "weight": 9500,
@@ -1926,6 +6162,46 @@
       "ground",
       "rock"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 80
+      },
+      {
+        "name": "attack",
+        "value": 85
+      },
+      {
+        "name": "defense",
+        "value": 95
+      },
+      {
+        "name": "special-attack",
+        "value": 30
+      },
+      {
+        "name": "special-defense",
+        "value": 30
+      },
+      {
+        "name": "speed",
+        "value": 25
+      }
+    ],
+    "abilities": [
+      {
+        "name": "lightning-rod",
+        "is_hidden": false
+      },
+      {
+        "name": "rock-head",
+        "is_hidden": false
+      },
+      {
+        "name": "reckless",
+        "is_hidden": true
+      }
+    ],
     "height": 100,
     "weight": 115000,
     "is_baby": false,
@@ -1944,6 +6220,46 @@
       "ground",
       "rock"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 105
+      },
+      {
+        "name": "attack",
+        "value": 130
+      },
+      {
+        "name": "defense",
+        "value": 120
+      },
+      {
+        "name": "special-attack",
+        "value": 45
+      },
+      {
+        "name": "special-defense",
+        "value": 45
+      },
+      {
+        "name": "speed",
+        "value": 40
+      }
+    ],
+    "abilities": [
+      {
+        "name": "lightning-rod",
+        "is_hidden": false
+      },
+      {
+        "name": "rock-head",
+        "is_hidden": false
+      },
+      {
+        "name": "reckless",
+        "is_hidden": true
+      }
+    ],
     "height": 190,
     "weight": 120000,
     "is_baby": false,
@@ -1960,6 +6276,46 @@
     "generation": 1,
     "types": [
       "normal"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 250
+      },
+      {
+        "name": "attack",
+        "value": 5
+      },
+      {
+        "name": "defense",
+        "value": 5
+      },
+      {
+        "name": "special-attack",
+        "value": 35
+      },
+      {
+        "name": "special-defense",
+        "value": 105
+      },
+      {
+        "name": "speed",
+        "value": 50
+      }
+    ],
+    "abilities": [
+      {
+        "name": "natural-cure",
+        "is_hidden": false
+      },
+      {
+        "name": "serene-grace",
+        "is_hidden": false
+      },
+      {
+        "name": "healer",
+        "is_hidden": true
+      }
     ],
     "height": 110,
     "weight": 34600,
@@ -1978,6 +6334,46 @@
     "types": [
       "grass"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 65
+      },
+      {
+        "name": "attack",
+        "value": 55
+      },
+      {
+        "name": "defense",
+        "value": 115
+      },
+      {
+        "name": "special-attack",
+        "value": 100
+      },
+      {
+        "name": "special-defense",
+        "value": 40
+      },
+      {
+        "name": "speed",
+        "value": 60
+      }
+    ],
+    "abilities": [
+      {
+        "name": "chlorophyll",
+        "is_hidden": false
+      },
+      {
+        "name": "leaf-guard",
+        "is_hidden": false
+      },
+      {
+        "name": "regenerator",
+        "is_hidden": true
+      }
+    ],
     "height": 100,
     "weight": 35000,
     "is_baby": false,
@@ -1994,6 +6390,46 @@
     "generation": 1,
     "types": [
       "normal"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 105
+      },
+      {
+        "name": "attack",
+        "value": 95
+      },
+      {
+        "name": "defense",
+        "value": 80
+      },
+      {
+        "name": "special-attack",
+        "value": 40
+      },
+      {
+        "name": "special-defense",
+        "value": 80
+      },
+      {
+        "name": "speed",
+        "value": 90
+      }
+    ],
+    "abilities": [
+      {
+        "name": "early-bird",
+        "is_hidden": false
+      },
+      {
+        "name": "scrappy",
+        "is_hidden": false
+      },
+      {
+        "name": "inner-focus",
+        "is_hidden": true
+      }
     ],
     "height": 220,
     "weight": 80000,
@@ -2012,6 +6448,46 @@
     "types": [
       "water"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 30
+      },
+      {
+        "name": "attack",
+        "value": 40
+      },
+      {
+        "name": "defense",
+        "value": 70
+      },
+      {
+        "name": "special-attack",
+        "value": 70
+      },
+      {
+        "name": "special-defense",
+        "value": 25
+      },
+      {
+        "name": "speed",
+        "value": 60
+      }
+    ],
+    "abilities": [
+      {
+        "name": "swift-swim",
+        "is_hidden": false
+      },
+      {
+        "name": "sniper",
+        "is_hidden": false
+      },
+      {
+        "name": "damp",
+        "is_hidden": true
+      }
+    ],
     "height": 40,
     "weight": 8000,
     "is_baby": false,
@@ -2028,6 +6504,46 @@
     "generation": 1,
     "types": [
       "water"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 55
+      },
+      {
+        "name": "attack",
+        "value": 65
+      },
+      {
+        "name": "defense",
+        "value": 95
+      },
+      {
+        "name": "special-attack",
+        "value": 95
+      },
+      {
+        "name": "special-defense",
+        "value": 45
+      },
+      {
+        "name": "speed",
+        "value": 85
+      }
+    ],
+    "abilities": [
+      {
+        "name": "poison-point",
+        "is_hidden": false
+      },
+      {
+        "name": "sniper",
+        "is_hidden": false
+      },
+      {
+        "name": "damp",
+        "is_hidden": true
+      }
     ],
     "height": 120,
     "weight": 25000,
@@ -2046,6 +6562,46 @@
     "types": [
       "water"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 45
+      },
+      {
+        "name": "attack",
+        "value": 67
+      },
+      {
+        "name": "defense",
+        "value": 60
+      },
+      {
+        "name": "special-attack",
+        "value": 35
+      },
+      {
+        "name": "special-defense",
+        "value": 50
+      },
+      {
+        "name": "speed",
+        "value": 63
+      }
+    ],
+    "abilities": [
+      {
+        "name": "swift-swim",
+        "is_hidden": false
+      },
+      {
+        "name": "water-veil",
+        "is_hidden": false
+      },
+      {
+        "name": "lightning-rod",
+        "is_hidden": true
+      }
+    ],
     "height": 60,
     "weight": 15000,
     "is_baby": false,
@@ -2063,6 +6619,46 @@
     "types": [
       "water"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 80
+      },
+      {
+        "name": "attack",
+        "value": 92
+      },
+      {
+        "name": "defense",
+        "value": 65
+      },
+      {
+        "name": "special-attack",
+        "value": 65
+      },
+      {
+        "name": "special-defense",
+        "value": 80
+      },
+      {
+        "name": "speed",
+        "value": 68
+      }
+    ],
+    "abilities": [
+      {
+        "name": "swift-swim",
+        "is_hidden": false
+      },
+      {
+        "name": "water-veil",
+        "is_hidden": false
+      },
+      {
+        "name": "lightning-rod",
+        "is_hidden": true
+      }
+    ],
     "height": 130,
     "weight": 39000,
     "is_baby": false,
@@ -2079,6 +6675,46 @@
     "generation": 1,
     "types": [
       "water"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 30
+      },
+      {
+        "name": "attack",
+        "value": 45
+      },
+      {
+        "name": "defense",
+        "value": 55
+      },
+      {
+        "name": "special-attack",
+        "value": 70
+      },
+      {
+        "name": "special-defense",
+        "value": 55
+      },
+      {
+        "name": "speed",
+        "value": 85
+      }
+    ],
+    "abilities": [
+      {
+        "name": "illuminate",
+        "is_hidden": false
+      },
+      {
+        "name": "natural-cure",
+        "is_hidden": false
+      },
+      {
+        "name": "analytic",
+        "is_hidden": true
+      }
     ],
     "height": 80,
     "weight": 34500,
@@ -2098,6 +6734,46 @@
       "water",
       "psychic"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 60
+      },
+      {
+        "name": "attack",
+        "value": 75
+      },
+      {
+        "name": "defense",
+        "value": 85
+      },
+      {
+        "name": "special-attack",
+        "value": 100
+      },
+      {
+        "name": "special-defense",
+        "value": 85
+      },
+      {
+        "name": "speed",
+        "value": 115
+      }
+    ],
+    "abilities": [
+      {
+        "name": "illuminate",
+        "is_hidden": false
+      },
+      {
+        "name": "natural-cure",
+        "is_hidden": false
+      },
+      {
+        "name": "analytic",
+        "is_hidden": true
+      }
+    ],
     "height": 110,
     "weight": 80000,
     "is_baby": false,
@@ -2115,6 +6791,46 @@
     "types": [
       "psychic",
       "fairy"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 40
+      },
+      {
+        "name": "attack",
+        "value": 45
+      },
+      {
+        "name": "defense",
+        "value": 65
+      },
+      {
+        "name": "special-attack",
+        "value": 100
+      },
+      {
+        "name": "special-defense",
+        "value": 120
+      },
+      {
+        "name": "speed",
+        "value": 90
+      }
+    ],
+    "abilities": [
+      {
+        "name": "soundproof",
+        "is_hidden": false
+      },
+      {
+        "name": "filter",
+        "is_hidden": false
+      },
+      {
+        "name": "technician",
+        "is_hidden": true
+      }
     ],
     "height": 130,
     "weight": 54500,
@@ -2134,6 +6850,46 @@
       "bug",
       "flying"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 70
+      },
+      {
+        "name": "attack",
+        "value": 110
+      },
+      {
+        "name": "defense",
+        "value": 80
+      },
+      {
+        "name": "special-attack",
+        "value": 55
+      },
+      {
+        "name": "special-defense",
+        "value": 80
+      },
+      {
+        "name": "speed",
+        "value": 105
+      }
+    ],
+    "abilities": [
+      {
+        "name": "swarm",
+        "is_hidden": false
+      },
+      {
+        "name": "technician",
+        "is_hidden": false
+      },
+      {
+        "name": "steadfast",
+        "is_hidden": true
+      }
+    ],
     "height": 150,
     "weight": 56000,
     "is_baby": false,
@@ -2152,6 +6908,46 @@
       "ice",
       "psychic"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 65
+      },
+      {
+        "name": "attack",
+        "value": 50
+      },
+      {
+        "name": "defense",
+        "value": 35
+      },
+      {
+        "name": "special-attack",
+        "value": 115
+      },
+      {
+        "name": "special-defense",
+        "value": 95
+      },
+      {
+        "name": "speed",
+        "value": 95
+      }
+    ],
+    "abilities": [
+      {
+        "name": "oblivious",
+        "is_hidden": false
+      },
+      {
+        "name": "forewarn",
+        "is_hidden": false
+      },
+      {
+        "name": "dry-skin",
+        "is_hidden": true
+      }
+    ],
     "height": 140,
     "weight": 40600,
     "is_baby": false,
@@ -2168,6 +6964,42 @@
     "generation": 1,
     "types": [
       "electric"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 65
+      },
+      {
+        "name": "attack",
+        "value": 83
+      },
+      {
+        "name": "defense",
+        "value": 57
+      },
+      {
+        "name": "special-attack",
+        "value": 95
+      },
+      {
+        "name": "special-defense",
+        "value": 85
+      },
+      {
+        "name": "speed",
+        "value": 105
+      }
+    ],
+    "abilities": [
+      {
+        "name": "static",
+        "is_hidden": false
+      },
+      {
+        "name": "vital-spirit",
+        "is_hidden": true
+      }
     ],
     "height": 110,
     "weight": 30000,
@@ -2186,6 +7018,42 @@
     "types": [
       "fire"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 65
+      },
+      {
+        "name": "attack",
+        "value": 95
+      },
+      {
+        "name": "defense",
+        "value": 57
+      },
+      {
+        "name": "special-attack",
+        "value": 100
+      },
+      {
+        "name": "special-defense",
+        "value": 85
+      },
+      {
+        "name": "speed",
+        "value": 93
+      }
+    ],
+    "abilities": [
+      {
+        "name": "flame-body",
+        "is_hidden": false
+      },
+      {
+        "name": "vital-spirit",
+        "is_hidden": true
+      }
+    ],
     "height": 130,
     "weight": 44500,
     "is_baby": false,
@@ -2202,6 +7070,46 @@
     "generation": 1,
     "types": [
       "bug"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 65
+      },
+      {
+        "name": "attack",
+        "value": 125
+      },
+      {
+        "name": "defense",
+        "value": 100
+      },
+      {
+        "name": "special-attack",
+        "value": 55
+      },
+      {
+        "name": "special-defense",
+        "value": 70
+      },
+      {
+        "name": "speed",
+        "value": 85
+      }
+    ],
+    "abilities": [
+      {
+        "name": "hyper-cutter",
+        "is_hidden": false
+      },
+      {
+        "name": "mold-breaker",
+        "is_hidden": false
+      },
+      {
+        "name": "moxie",
+        "is_hidden": true
+      }
     ],
     "height": 150,
     "weight": 55000,
@@ -2220,6 +7128,46 @@
     "types": [
       "normal"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 75
+      },
+      {
+        "name": "attack",
+        "value": 100
+      },
+      {
+        "name": "defense",
+        "value": 95
+      },
+      {
+        "name": "special-attack",
+        "value": 40
+      },
+      {
+        "name": "special-defense",
+        "value": 70
+      },
+      {
+        "name": "speed",
+        "value": 110
+      }
+    ],
+    "abilities": [
+      {
+        "name": "intimidate",
+        "is_hidden": false
+      },
+      {
+        "name": "anger-point",
+        "is_hidden": false
+      },
+      {
+        "name": "sheer-force",
+        "is_hidden": true
+      }
+    ],
     "height": 140,
     "weight": 88400,
     "is_baby": false,
@@ -2236,6 +7184,42 @@
     "generation": 1,
     "types": [
       "water"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 20
+      },
+      {
+        "name": "attack",
+        "value": 10
+      },
+      {
+        "name": "defense",
+        "value": 55
+      },
+      {
+        "name": "special-attack",
+        "value": 15
+      },
+      {
+        "name": "special-defense",
+        "value": 20
+      },
+      {
+        "name": "speed",
+        "value": 80
+      }
+    ],
+    "abilities": [
+      {
+        "name": "swift-swim",
+        "is_hidden": false
+      },
+      {
+        "name": "rattled",
+        "is_hidden": true
+      }
     ],
     "height": 90,
     "weight": 10000,
@@ -2255,6 +7239,42 @@
       "water",
       "flying"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 95
+      },
+      {
+        "name": "attack",
+        "value": 125
+      },
+      {
+        "name": "defense",
+        "value": 79
+      },
+      {
+        "name": "special-attack",
+        "value": 60
+      },
+      {
+        "name": "special-defense",
+        "value": 100
+      },
+      {
+        "name": "speed",
+        "value": 81
+      }
+    ],
+    "abilities": [
+      {
+        "name": "intimidate",
+        "is_hidden": false
+      },
+      {
+        "name": "moxie",
+        "is_hidden": true
+      }
+    ],
     "height": 650,
     "weight": 235000,
     "is_baby": false,
@@ -2273,6 +7293,46 @@
       "water",
       "ice"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 130
+      },
+      {
+        "name": "attack",
+        "value": 85
+      },
+      {
+        "name": "defense",
+        "value": 80
+      },
+      {
+        "name": "special-attack",
+        "value": 85
+      },
+      {
+        "name": "special-defense",
+        "value": 95
+      },
+      {
+        "name": "speed",
+        "value": 60
+      }
+    ],
+    "abilities": [
+      {
+        "name": "water-absorb",
+        "is_hidden": false
+      },
+      {
+        "name": "shell-armor",
+        "is_hidden": false
+      },
+      {
+        "name": "hydration",
+        "is_hidden": true
+      }
+    ],
     "height": 250,
     "weight": 220000,
     "is_baby": false,
@@ -2289,6 +7349,42 @@
     "generation": 1,
     "types": [
       "normal"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 48
+      },
+      {
+        "name": "attack",
+        "value": 48
+      },
+      {
+        "name": "defense",
+        "value": 48
+      },
+      {
+        "name": "special-attack",
+        "value": 48
+      },
+      {
+        "name": "special-defense",
+        "value": 48
+      },
+      {
+        "name": "speed",
+        "value": 48
+      }
+    ],
+    "abilities": [
+      {
+        "name": "limber",
+        "is_hidden": false
+      },
+      {
+        "name": "imposter",
+        "is_hidden": true
+      }
     ],
     "height": 30,
     "weight": 4000,
@@ -2307,6 +7403,46 @@
     "types": [
       "normal"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 55
+      },
+      {
+        "name": "attack",
+        "value": 55
+      },
+      {
+        "name": "defense",
+        "value": 50
+      },
+      {
+        "name": "special-attack",
+        "value": 45
+      },
+      {
+        "name": "special-defense",
+        "value": 65
+      },
+      {
+        "name": "speed",
+        "value": 55
+      }
+    ],
+    "abilities": [
+      {
+        "name": "run-away",
+        "is_hidden": false
+      },
+      {
+        "name": "adaptability",
+        "is_hidden": false
+      },
+      {
+        "name": "anticipation",
+        "is_hidden": true
+      }
+    ],
     "height": 30,
     "weight": 6500,
     "is_baby": false,
@@ -2323,6 +7459,42 @@
     "generation": 1,
     "types": [
       "water"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 130
+      },
+      {
+        "name": "attack",
+        "value": 65
+      },
+      {
+        "name": "defense",
+        "value": 60
+      },
+      {
+        "name": "special-attack",
+        "value": 110
+      },
+      {
+        "name": "special-defense",
+        "value": 95
+      },
+      {
+        "name": "speed",
+        "value": 65
+      }
+    ],
+    "abilities": [
+      {
+        "name": "water-absorb",
+        "is_hidden": false
+      },
+      {
+        "name": "hydration",
+        "is_hidden": true
+      }
     ],
     "height": 100,
     "weight": 29000,
@@ -2341,6 +7513,42 @@
     "types": [
       "electric"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 65
+      },
+      {
+        "name": "attack",
+        "value": 65
+      },
+      {
+        "name": "defense",
+        "value": 60
+      },
+      {
+        "name": "special-attack",
+        "value": 110
+      },
+      {
+        "name": "special-defense",
+        "value": 95
+      },
+      {
+        "name": "speed",
+        "value": 130
+      }
+    ],
+    "abilities": [
+      {
+        "name": "volt-absorb",
+        "is_hidden": false
+      },
+      {
+        "name": "quick-feet",
+        "is_hidden": true
+      }
+    ],
     "height": 80,
     "weight": 24500,
     "is_baby": false,
@@ -2358,6 +7566,42 @@
     "types": [
       "fire"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 65
+      },
+      {
+        "name": "attack",
+        "value": 130
+      },
+      {
+        "name": "defense",
+        "value": 60
+      },
+      {
+        "name": "special-attack",
+        "value": 95
+      },
+      {
+        "name": "special-defense",
+        "value": 110
+      },
+      {
+        "name": "speed",
+        "value": 65
+      }
+    ],
+    "abilities": [
+      {
+        "name": "flash-fire",
+        "is_hidden": false
+      },
+      {
+        "name": "guts",
+        "is_hidden": true
+      }
+    ],
     "height": 90,
     "weight": 25000,
     "is_baby": false,
@@ -2374,6 +7618,46 @@
     "generation": 1,
     "types": [
       "normal"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 65
+      },
+      {
+        "name": "attack",
+        "value": 60
+      },
+      {
+        "name": "defense",
+        "value": 70
+      },
+      {
+        "name": "special-attack",
+        "value": 85
+      },
+      {
+        "name": "special-defense",
+        "value": 75
+      },
+      {
+        "name": "speed",
+        "value": 40
+      }
+    ],
+    "abilities": [
+      {
+        "name": "trace",
+        "is_hidden": false
+      },
+      {
+        "name": "download",
+        "is_hidden": false
+      },
+      {
+        "name": "analytic",
+        "is_hidden": true
+      }
     ],
     "height": 80,
     "weight": 36500,
@@ -2393,6 +7677,46 @@
       "rock",
       "water"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 35
+      },
+      {
+        "name": "attack",
+        "value": 40
+      },
+      {
+        "name": "defense",
+        "value": 100
+      },
+      {
+        "name": "special-attack",
+        "value": 90
+      },
+      {
+        "name": "special-defense",
+        "value": 55
+      },
+      {
+        "name": "speed",
+        "value": 35
+      }
+    ],
+    "abilities": [
+      {
+        "name": "swift-swim",
+        "is_hidden": false
+      },
+      {
+        "name": "shell-armor",
+        "is_hidden": false
+      },
+      {
+        "name": "weak-armor",
+        "is_hidden": true
+      }
+    ],
     "height": 40,
     "weight": 7500,
     "is_baby": false,
@@ -2410,6 +7734,46 @@
     "types": [
       "rock",
       "water"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 70
+      },
+      {
+        "name": "attack",
+        "value": 60
+      },
+      {
+        "name": "defense",
+        "value": 125
+      },
+      {
+        "name": "special-attack",
+        "value": 115
+      },
+      {
+        "name": "special-defense",
+        "value": 70
+      },
+      {
+        "name": "speed",
+        "value": 55
+      }
+    ],
+    "abilities": [
+      {
+        "name": "swift-swim",
+        "is_hidden": false
+      },
+      {
+        "name": "shell-armor",
+        "is_hidden": false
+      },
+      {
+        "name": "weak-armor",
+        "is_hidden": true
+      }
     ],
     "height": 100,
     "weight": 35000,
@@ -2429,6 +7793,46 @@
       "rock",
       "water"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 30
+      },
+      {
+        "name": "attack",
+        "value": 80
+      },
+      {
+        "name": "defense",
+        "value": 90
+      },
+      {
+        "name": "special-attack",
+        "value": 55
+      },
+      {
+        "name": "special-defense",
+        "value": 45
+      },
+      {
+        "name": "speed",
+        "value": 55
+      }
+    ],
+    "abilities": [
+      {
+        "name": "swift-swim",
+        "is_hidden": false
+      },
+      {
+        "name": "battle-armor",
+        "is_hidden": false
+      },
+      {
+        "name": "weak-armor",
+        "is_hidden": true
+      }
+    ],
     "height": 50,
     "weight": 11500,
     "is_baby": false,
@@ -2446,6 +7850,46 @@
     "types": [
       "rock",
       "water"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 60
+      },
+      {
+        "name": "attack",
+        "value": 115
+      },
+      {
+        "name": "defense",
+        "value": 105
+      },
+      {
+        "name": "special-attack",
+        "value": 65
+      },
+      {
+        "name": "special-defense",
+        "value": 70
+      },
+      {
+        "name": "speed",
+        "value": 80
+      }
+    ],
+    "abilities": [
+      {
+        "name": "swift-swim",
+        "is_hidden": false
+      },
+      {
+        "name": "battle-armor",
+        "is_hidden": false
+      },
+      {
+        "name": "weak-armor",
+        "is_hidden": true
+      }
     ],
     "height": 130,
     "weight": 40500,
@@ -2465,6 +7909,46 @@
       "rock",
       "flying"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 80
+      },
+      {
+        "name": "attack",
+        "value": 105
+      },
+      {
+        "name": "defense",
+        "value": 65
+      },
+      {
+        "name": "special-attack",
+        "value": 60
+      },
+      {
+        "name": "special-defense",
+        "value": 75
+      },
+      {
+        "name": "speed",
+        "value": 130
+      }
+    ],
+    "abilities": [
+      {
+        "name": "rock-head",
+        "is_hidden": false
+      },
+      {
+        "name": "pressure",
+        "is_hidden": false
+      },
+      {
+        "name": "unnerve",
+        "is_hidden": true
+      }
+    ],
     "height": 180,
     "weight": 59000,
     "is_baby": false,
@@ -2481,6 +7965,46 @@
     "generation": 1,
     "types": [
       "normal"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 160
+      },
+      {
+        "name": "attack",
+        "value": 110
+      },
+      {
+        "name": "defense",
+        "value": 65
+      },
+      {
+        "name": "special-attack",
+        "value": 65
+      },
+      {
+        "name": "special-defense",
+        "value": 110
+      },
+      {
+        "name": "speed",
+        "value": 30
+      }
+    ],
+    "abilities": [
+      {
+        "name": "immunity",
+        "is_hidden": false
+      },
+      {
+        "name": "thick-fat",
+        "is_hidden": false
+      },
+      {
+        "name": "gluttony",
+        "is_hidden": true
+      }
     ],
     "height": 210,
     "weight": 460000,
@@ -2500,6 +8024,42 @@
       "ice",
       "flying"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 90
+      },
+      {
+        "name": "attack",
+        "value": 85
+      },
+      {
+        "name": "defense",
+        "value": 100
+      },
+      {
+        "name": "special-attack",
+        "value": 95
+      },
+      {
+        "name": "special-defense",
+        "value": 125
+      },
+      {
+        "name": "speed",
+        "value": 85
+      }
+    ],
+    "abilities": [
+      {
+        "name": "pressure",
+        "is_hidden": false
+      },
+      {
+        "name": "snow-cloak",
+        "is_hidden": true
+      }
+    ],
     "height": 170,
     "weight": 55400,
     "is_baby": false,
@@ -2517,6 +8077,42 @@
     "types": [
       "electric",
       "flying"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 90
+      },
+      {
+        "name": "attack",
+        "value": 90
+      },
+      {
+        "name": "defense",
+        "value": 85
+      },
+      {
+        "name": "special-attack",
+        "value": 125
+      },
+      {
+        "name": "special-defense",
+        "value": 90
+      },
+      {
+        "name": "speed",
+        "value": 100
+      }
+    ],
+    "abilities": [
+      {
+        "name": "pressure",
+        "is_hidden": false
+      },
+      {
+        "name": "static",
+        "is_hidden": true
+      }
     ],
     "height": 160,
     "weight": 52600,
@@ -2536,6 +8132,42 @@
       "fire",
       "flying"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 90
+      },
+      {
+        "name": "attack",
+        "value": 100
+      },
+      {
+        "name": "defense",
+        "value": 90
+      },
+      {
+        "name": "special-attack",
+        "value": 125
+      },
+      {
+        "name": "special-defense",
+        "value": 85
+      },
+      {
+        "name": "speed",
+        "value": 90
+      }
+    ],
+    "abilities": [
+      {
+        "name": "pressure",
+        "is_hidden": false
+      },
+      {
+        "name": "flame-body",
+        "is_hidden": true
+      }
+    ],
     "height": 200,
     "weight": 60000,
     "is_baby": false,
@@ -2553,6 +8185,42 @@
     "types": [
       "dragon"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 41
+      },
+      {
+        "name": "attack",
+        "value": 64
+      },
+      {
+        "name": "defense",
+        "value": 45
+      },
+      {
+        "name": "special-attack",
+        "value": 50
+      },
+      {
+        "name": "special-defense",
+        "value": 50
+      },
+      {
+        "name": "speed",
+        "value": 50
+      }
+    ],
+    "abilities": [
+      {
+        "name": "shed-skin",
+        "is_hidden": false
+      },
+      {
+        "name": "marvel-scale",
+        "is_hidden": true
+      }
+    ],
     "height": 180,
     "weight": 3300,
     "is_baby": false,
@@ -2569,6 +8237,42 @@
     "generation": 1,
     "types": [
       "dragon"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 61
+      },
+      {
+        "name": "attack",
+        "value": 84
+      },
+      {
+        "name": "defense",
+        "value": 65
+      },
+      {
+        "name": "special-attack",
+        "value": 70
+      },
+      {
+        "name": "special-defense",
+        "value": 70
+      },
+      {
+        "name": "speed",
+        "value": 70
+      }
+    ],
+    "abilities": [
+      {
+        "name": "shed-skin",
+        "is_hidden": false
+      },
+      {
+        "name": "marvel-scale",
+        "is_hidden": true
+      }
     ],
     "height": 400,
     "weight": 16500,
@@ -2588,6 +8292,42 @@
       "dragon",
       "flying"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 91
+      },
+      {
+        "name": "attack",
+        "value": 134
+      },
+      {
+        "name": "defense",
+        "value": 95
+      },
+      {
+        "name": "special-attack",
+        "value": 100
+      },
+      {
+        "name": "special-defense",
+        "value": 100
+      },
+      {
+        "name": "speed",
+        "value": 80
+      }
+    ],
+    "abilities": [
+      {
+        "name": "inner-focus",
+        "is_hidden": false
+      },
+      {
+        "name": "multiscale",
+        "is_hidden": true
+      }
+    ],
     "height": 220,
     "weight": 210000,
     "is_baby": false,
@@ -2605,6 +8345,42 @@
     "types": [
       "psychic"
     ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 106
+      },
+      {
+        "name": "attack",
+        "value": 110
+      },
+      {
+        "name": "defense",
+        "value": 90
+      },
+      {
+        "name": "special-attack",
+        "value": 154
+      },
+      {
+        "name": "special-defense",
+        "value": 90
+      },
+      {
+        "name": "speed",
+        "value": 130
+      }
+    ],
+    "abilities": [
+      {
+        "name": "pressure",
+        "is_hidden": false
+      },
+      {
+        "name": "unnerve",
+        "is_hidden": true
+      }
+    ],
     "height": 200,
     "weight": 122000,
     "is_baby": false,
@@ -2621,6 +8397,38 @@
     "generation": 1,
     "types": [
       "psychic"
+    ],
+    "base_stats": [
+      {
+        "name": "hp",
+        "value": 100
+      },
+      {
+        "name": "attack",
+        "value": 100
+      },
+      {
+        "name": "defense",
+        "value": 100
+      },
+      {
+        "name": "special-attack",
+        "value": 100
+      },
+      {
+        "name": "special-defense",
+        "value": 100
+      },
+      {
+        "name": "speed",
+        "value": 100
+      }
+    ],
+    "abilities": [
+      {
+        "name": "synchronize",
+        "is_hidden": false
+      }
     ],
     "height": 40,
     "weight": 4000,

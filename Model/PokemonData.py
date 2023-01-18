@@ -11,8 +11,12 @@ from Utils.DataTools import DataSaver
 
 class Pokedex:
     JsonNameKey = "name"
+    JsonValueKey = "value"
     JsonGenerationKey = "generation"
     JsonTypesKey = "types"
+    JsonBaseStatsKey = "base_stats"
+    JsonAbilitiesKey = "abilities"
+    JsonAbilityIsHiddenKey = "is_hidden"
     JsonHeightKey = "height"
     JsonWeightKey = "weight"
     JsonIsBabyKey = "is_baby"
@@ -63,6 +67,22 @@ class Pokedex:
             for jsonType in pokemonData["types"]:
                 types.append(jsonType["type"]["name"])
 
+            stats = []
+            for jsonStat in pokemonData["stats"]:
+                stat = {
+                    Pokedex.JsonNameKey: jsonStat["stat"]["name"],
+                    Pokedex.JsonValueKey: jsonStat["base_stat"]
+                }
+                stats.append(stat)
+
+            abilities = []
+            for abilityStat in pokemonData["abilities"]:
+                ability = {
+                    Pokedex.JsonNameKey: abilityStat["ability"]["name"],
+                    Pokedex.JsonAbilityIsHiddenKey: abilityStat["is_hidden"]
+                }
+                abilities.append(ability)
+
             request = requests.get(f"https://pokeapi.co/api/v2/pokemon-species/{pokemonNumber}/")
             pokemonSpeciesData = json.loads(request.content)
 
@@ -80,6 +100,8 @@ class Pokedex:
                 Pokedex.JsonNameKey: pokemonData["name"],
                 Pokedex.JsonGenerationKey: self.getGeneration(pokemonNumber),
                 Pokedex.JsonTypesKey: types,
+                Pokedex.JsonBaseStatsKey: stats,
+                Pokedex.JsonAbilitiesKey: abilities,
                 Pokedex.JsonHeightKey: pokemonData["height"] * 10, # in cm
                 Pokedex.JsonWeightKey: pokemonData["weight"] * 100, # in gramms
                 Pokedex.JsonIsBabyKey: pokemonSpeciesData["is_baby"],
@@ -98,8 +120,8 @@ class Pokedex:
         for pokemonNumber, item in self.m_data.items():
             progressBar.next()
 
-            jsonKeys = {Pokedex.JsonSpriteFrontDefaultKey, Pokedex.JsonSpriteHomeFrontDefaultKey, Pokedex.JsonSpriteOfficialFrontDefaultKey}
-            fileNames = {DataSaver.SpriteFrontDefaultName, DataSaver.SpriteHomeFrontDefaultName, DataSaver.SpriteOfficialFrontDefaultName}
+            jsonKeys = [Pokedex.JsonSpriteFrontDefaultKey, Pokedex.JsonSpriteHomeFrontDefaultKey, Pokedex.JsonSpriteOfficialFrontDefaultKey]
+            fileNames = [DataSaver.SpriteFrontDefaultName, DataSaver.SpriteHomeFrontDefaultName, DataSaver.SpriteOfficialFrontDefaultName]
             for key, fileName in zip(jsonKeys, fileNames):
                 url = self.m_data[pokemonNumber][key]
                 content = requests.get(url).content
