@@ -25,6 +25,9 @@ class Pokedex:
     JsonGenusKey = "genus"
     JsonDescriptionKey = "description"
     JsonSpriteFrontDefaultKey = "sprite_front_default_url"
+    JsonSpriteBackDefaultKey = "sprite_back_default_url"
+    JsonSpriteFrontShinyDefaultKey = "sprite_front_shiny_default_url"
+    JsonSpriteBackShinyDefaultKey = "sprite_back_shiny_default_url"
     JsonSpriteHomeFrontDefaultKey = "sprite_home_front_default_url"
     JsonSpriteOfficialFrontDefaultKey = "sprite_official_front_default_url"
 
@@ -110,6 +113,9 @@ class Pokedex:
                 Pokedex.JsonGenusKey: genus,
                 Pokedex.JsonDescriptionKey: description,
                 Pokedex.JsonSpriteFrontDefaultKey: pokemonData["sprites"]["front_default"],
+                Pokedex.JsonSpriteBackDefaultKey: pokemonData["sprites"]["back_default"],
+                Pokedex.JsonSpriteFrontShinyDefaultKey: pokemonData["sprites"]["front_shiny"],
+                Pokedex.JsonSpriteBackShinyDefaultKey: pokemonData["sprites"]["back_shiny"],
                 Pokedex.JsonSpriteHomeFrontDefaultKey: pokemonData["sprites"]["other"]["home"]["front_default"],
                 Pokedex.JsonSpriteOfficialFrontDefaultKey: pokemonData["sprites"]["other"]["official-artwork"]["front_default"]
             }
@@ -120,8 +126,22 @@ class Pokedex:
         for pokemonNumber, item in self.m_data.items():
             progressBar.next()
 
-            jsonKeys = [Pokedex.JsonSpriteFrontDefaultKey, Pokedex.JsonSpriteHomeFrontDefaultKey, Pokedex.JsonSpriteOfficialFrontDefaultKey]
-            fileNames = [DataSaver.SpriteFrontDefaultName, DataSaver.SpriteHomeFrontDefaultName, DataSaver.SpriteOfficialFrontDefaultName]
+            jsonKeys = [
+                Pokedex.JsonSpriteFrontDefaultKey,
+                Pokedex.JsonSpriteBackDefaultKey,
+                Pokedex.JsonSpriteFrontShinyDefaultKey,
+                Pokedex.JsonSpriteBackShinyDefaultKey,
+                Pokedex.JsonSpriteHomeFrontDefaultKey,
+                Pokedex.JsonSpriteOfficialFrontDefaultKey
+                ]
+            fileNames = [
+                DataSaver.SpriteFrontDefaultName,
+                DataSaver.SpriteBackDefaultName,
+                DataSaver.SpriteFrontShinyDefaultName,
+                DataSaver.SpriteBackShinyDefaultName,
+                DataSaver.SpriteHomeFrontDefaultName,
+                DataSaver.SpriteOfficialFrontDefaultName
+                ]
             for key, fileName in zip(jsonKeys, fileNames):
                 url = self.m_data[pokemonNumber][key]
                 content = requests.get(url).content

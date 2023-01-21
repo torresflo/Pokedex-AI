@@ -38,6 +38,13 @@ class QPokedexWidget(QtWidgets.QWidget):
         # Pokemon Page
         font = self.font()
 
+        self.m_pokemonNumberLabel = QtWidgets.QLabel("Number")
+        font.setPointSize(14)
+        self.m_pokemonNumberLabel.setFont(font)
+        self.m_pokemonNameLabel = QtWidgets.QLabel("Name")
+        font.setPointSize(32)
+        self.m_pokemonNameLabel.setFont(font)
+
         self.m_pokemonType1Label = QtWidgets.QLabel("Type 1")
         self.m_pokemonType2Label = QtWidgets.QLabel("Type 2")
         self.m_pokemonTypesLayout = QtWidgets.QHBoxLayout()
@@ -45,20 +52,13 @@ class QPokedexWidget(QtWidgets.QWidget):
         self.m_pokemonTypesLayout.addWidget(self.m_pokemonType2Label)
         self.m_pokemonTypesLayout.addStretch()
 
-        self.m_pokemonNumberLabel = QtWidgets.QLabel("Number")
-        font.setPointSize(14)
-        self.m_pokemonNumberLabel.setFont(font)
-
-        self.m_pokemonNameLabel = QtWidgets.QLabel("Name")
-        font.setPointSize(32)
-        self.m_pokemonNameLabel.setFont(font)
-
         self.m_pokemonGenusLabel = QtWidgets.QLabel("Genus")
         font.setPointSize(22)
         self.m_pokemonGenusLabel.setFont(font)
 
         self.m_pokemonDescriptionLabel = QtWidgets.QLabel("Description")
         self.m_pokemonDescriptionLabel.setFixedWidth(410)
+        self.m_pokemonDescriptionLabel.setFixedHeight(100)
         self.m_pokemonDescriptionLabel.setWordWrap(True)
         font.setPointSize(16)
         self.m_pokemonDescriptionLabel.setFont(font)
@@ -72,6 +72,18 @@ class QPokedexWidget(QtWidgets.QWidget):
         self.m_pokemonHeightLabel.setFont(font)
         self.m_pokemonWeightLabel.setFont(font)
 
+        self.m_pokemonFrontSpriteLabel = QtWidgets.QLabel("Front")
+        self.m_pokemonBackSpriteLabel = QtWidgets.QLabel("Back")
+        self.m_pokemonFrontShinySpriteLabel = QtWidgets.QLabel("Front Shiny")
+        self.m_pokemonBackShinySpriteLabel = QtWidgets.QLabel("Back Shiny")
+        self.m_pokemonSpritesLayout = QtWidgets.QHBoxLayout()
+        self.m_pokemonSpritesLayout.addWidget(self.m_pokemonFrontSpriteLabel)
+        self.m_pokemonSpritesLayout.addWidget(self.m_pokemonBackSpriteLabel)
+        self.m_pokemonSpritesLayout.addWidget(self.m_pokemonFrontShinySpriteLabel)
+        self.m_pokemonSpritesLayout.addWidget(self.m_pokemonBackShinySpriteLabel)
+        self.m_pokemonSpritesLayout.addStretch()
+        self.m_pokemonSpritesLayout.setContentsMargins(0, 0, 50, 0)
+
         self.m_pokemonDataLayout = QtWidgets.QVBoxLayout()
         self.m_pokemonDataLayout.addWidget(self.m_pokemonNumberLabel)
         self.m_pokemonDataLayout.addWidget(self.m_pokemonNameLabel)
@@ -82,6 +94,7 @@ class QPokedexWidget(QtWidgets.QWidget):
         self.m_pokemonDataLayout.addWidget(self.m_pokemonHeightLabel)
         self.m_pokemonDataLayout.addWidget(self.m_pokemonWeightLabel)
         self.m_pokemonDataLayout.addStretch()
+        self.m_pokemonDataLayout.addLayout(self.m_pokemonSpritesLayout)
         self.m_pokemonDataLayout.setContentsMargins(20, 20, 20, 20)
         
         self.m_pokemonImageLabel = QPokemonImageLabel()
@@ -130,10 +143,16 @@ class QPokedexWidget(QtWidgets.QWidget):
         self.m_currentSelectedPokemon = pokemonNumber
         pokemonData = self.m_pokedex.m_data[f"{pokemonNumber}"]
 
+        self.m_pokemonFrontSpriteLabel.setPixmap(self.generateSpritePixmap(pokemonNumber, DataSaver.SpriteFrontDefaultName))
+        self.m_pokemonBackSpriteLabel.setPixmap(self.generateSpritePixmap(pokemonNumber, DataSaver.SpriteBackDefaultName))
+        self.m_pokemonFrontShinySpriteLabel.setPixmap(self.generateSpritePixmap(pokemonNumber, DataSaver.SpriteFrontShinyDefaultName))
+        self.m_pokemonBackShinySpriteLabel.setPixmap(self.generateSpritePixmap(pokemonNumber, DataSaver.SpriteBackShinyDefaultName))
+
         self.m_pokemonImageLabel.setPixmap(QtGui.QPixmap(f"{DataSaver.DefaultPokemonImageDataFolderPath}/{pokemonNumber}/{DataSaver.SpriteOfficialFrontDefaultName}"))
         self.m_pokemonType1Label.clear()
         self.m_pokemonType2Label.clear()
-        self.m_pokemonNumberLabel.setText(f"N°{pokemonNumber}")
+
+        self.m_pokemonNumberLabel.setText("N°{:0>3d}".format(pokemonNumber))
         self.m_pokemonNameLabel.setText(f"{pokemonData[Pokedex.JsonNameKey].upper()}")
         self.m_pokemonGenusLabel.setText(f"{pokemonData[Pokedex.JsonGenusKey]}")
         self.m_pokemonDescriptionLabel.setText(f"{pokemonData[Pokedex.JsonDescriptionKey]}")
@@ -158,6 +177,17 @@ class QPokedexWidget(QtWidgets.QWidget):
             self.m_pokemonType2Label.setPixmap(QtGui.QPixmap(f"{DataSaver.DefaultTypeImageDataFolderPath}/{types[1]}.png"))
 
         self.update()
+
+    def generateSpritePixmap(self, pokemonNumber, fileName):
+        spritePixmap = QtGui.QPixmap(f"{DataSaver.DefaultPokemonImageDataFolderPath}/{pokemonNumber}/{fileName}")
+        spriteOpaqueRegion = QtGui.QRegion(spritePixmap.createMaskFromColor(QtCore.Qt.transparent)).boundingRect()
+        newPixmap = QtGui.QPixmap(spriteOpaqueRegion.width(), spritePixmap.size().height())
+        newPixmap.fill(QtCore.Qt.transparent)
+        painter = QtGui.QPainter(newPixmap)
+        drawPoint = QtCore.QPoint(0, newPixmap.height() - spriteOpaqueRegion.height())
+        painter.drawPixmap(drawPoint, spritePixmap, spriteOpaqueRegion)
+        painter.end()
+        return newPixmap
 
     def validatePokemonNumber(self, pokemonNumber):
         if pokemonNumber < 1:

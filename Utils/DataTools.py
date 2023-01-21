@@ -8,6 +8,9 @@ class DataSaver:
     DefaultTypeImageDataFolderPath = f"{DefaultImageDataFolderPath}/type"
     
     SpriteFrontDefaultName = "sprite_front_default.png"
+    SpriteBackDefaultName = "sprite_back_default.png"
+    SpriteFrontShinyDefaultName = "sprite_front_shiny_default.png"
+    SpriteBackShinyDefaultName = "sprite_back_shiny_default.png"
     SpriteHomeFrontDefaultName = "sprite_home_front_default.png"
     SpriteOfficialFrontDefaultName = "sprite_official_front_default.png"
 
