@@ -3,14 +3,15 @@ from PIL import Image
 from transformers import ViTFeatureExtractor, ViTForImageClassification
 
 class PokemonModel:
-    DefaultModelPath = "./data/model"
+    PokeModelUrl = "torresflo/Poke-Model"
+    GoogleVitBaseUrl = "google/vit-base-patch16-224"
 
     def __init__(self):
         self.m_device = "cuda" if torch.cuda.is_available() else "cpu"
 
         print("Loading model...")
-        self.m_featureExtractor = ViTFeatureExtractor.from_pretrained('google/vit-base-patch16-224')
-        self.m_model = ViTForImageClassification.from_pretrained(PokemonModel.DefaultModelPath).to(self.m_device)
+        self.m_featureExtractor = ViTFeatureExtractor.from_pretrained(PokemonModel.GoogleVitBaseUrl)
+        self.m_model = ViTForImageClassification.from_pretrained(PokemonModel.PokeModelUrl).to(self.m_device)
         print("Model loaded")
 
     def computePrediction(self, fileName):
